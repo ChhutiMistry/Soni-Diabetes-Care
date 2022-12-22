@@ -1,0 +1,31 @@
+.roblcardbox{
+     padding: 1rem;
+     margin-bottom: 5%;
+}
+
+.roblcard{
+     height: 400px;
+     width: 250px;
+     overflow: hidden;
+}
+
+.roblimg{
+     height: 150px;
+     width: 100%;
+}
+
+.roblhead{
+     font-size: 22px;
+     font-family: Poppins;
+     font-weight: 600;
+     margin-top: 5%;
+}
+
+.roblbody{
+     font-size: 16px;
+     font-family: Poppins;
+}
+
+.roblarr{
+     float: right;
+}

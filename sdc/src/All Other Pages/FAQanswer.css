@@ -1,0 +1,82 @@
+.autoslidec{
+     z-index: -1;
+}
+
+.autoslidectop{
+     height: 30rem;
+     width: 100%;
+}
+
+.headfaqa{
+     font-size: 40px;
+     font-weight: 600;
+     text-align: center;
+     margin-top: 18rem;
+     padding-bottom: 5%;
+     color: green;
+     text-shadow: 0 0 10px #f0f611;
+     text-decoration: underline;
+     font-family: Poppins;
+}
+
+.hfaqa{
+     padding-left: 3%;
+     font-weight: bolder;
+     font-family: Poppins;
+     color: #5019e8;
+     text-shadow: 0 0 10px #feefef;
+}
+
+.hfaqaback{
+     background-image: url('https://i.ibb.co/Tr1r8cW/FAQ-Background.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 90% 100%;
+     background-color: #70c2f8;
+     box-shadow: 14px 22px 28px #c2c2c2;
+     border-radius: 40px;
+     height: 300px;
+     padding-top: 6rem;
+     padding-bottom: 4rem;
+     padding-left: 5%;
+     padding-right: 5%;
+     margin-bottom: 2%;
+}
+
+.sdcfaqah1{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Poppins;
+     text-align: center;
+     font-style: italic;
+     text-shadow: 3px 3px 2px #c1c1c1;
+     border-bottom-color: #70c2f8;
+     border-bottom-width: 3px;
+     border-bottom-style: solid;
+     margin-bottom: 5%;
+}
+
+.sdcfaqabox{
+     padding: 35px;
+     border-color: #4b9fd8;
+     border-width: 5px;
+     border-style: solid;
+     border-radius: 40px;
+     box-shadow: 0 0 32px #4b9fd8 inset;
+     background-color: #d1d7dc;
+}
+
+.sdcfaqaboxques{
+     text-align: center;
+     font-size: 30px;
+     font-weight: 600;
+     font-family: Poppins;
+     margin-bottom: 25px;
+}
+
+.sdcfaqaboxans{
+     font-size: 22px;
+     font-weight: 500;
+     font-family: Poppins;
+     text-align: justify;
+}

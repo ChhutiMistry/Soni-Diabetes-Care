@@ -1,0 +1,242 @@
+.sdchome{
+     background-color: #4b9fd8;
+}
+
+.sdcnotice{
+     direction: rtl;
+}
+
+.row{
+     --bs-gutter-x:0 !important;
+}
+
+.mybell{
+     font-size: 50px;
+     box-shadow: 1px 10px 14px #5b6f94;
+     background-color: #7a96c6;
+     border-radius: 50px 0px 0px 50px;
+     float: right;
+     margin-top: 7%;
+     margin-right: 2%;
+     padding: 1%;
+     padding-left: 5%;
+     cursor: pointer;
+}
+
+.sdcnote{
+     height: 200px;
+     width: 500px;
+     background-color: antiquewhite;
+     border-radius: 60px 0px 0px 60px;
+}
+
+#noticee{
+     display: none;
+}
+
+.line1{
+     font-size: 52px;
+     font-weight: 700;
+     margin-top: 5%;
+     margin-bottom: 3%;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: Poppins;
+}
+
+.line2{
+     font-size: 24px;
+     font-weight: 700;
+     line-height: 0.8;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: Poppins;
+}
+
+.line23{
+     text-align: center;
+}
+
+.line3{
+     font-size: 25px;
+     font-weight: 700;
+     line-height: 0.8;
+     text-align: center;
+     color: #d70707;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: Poppins;
+}
+
+.line4{
+     font-size: 24px;
+     font-weight: 700;
+     line-height: 0.8;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: Poppins;
+}
+
+.line5{
+     font-size: 20px;
+     font-weight: 700;
+     line-height: 0.8;
+     text-align: center;
+     color: #0d8e0d;
+     text-shadow: 2px 2px #83b5dd;
+     font-family: Poppins;
+}
+
+.line56{
+     text-align: center;
+}
+
+.line6{
+     font-size: 20px;
+     font-weight: 700;
+     line-height: 0.8;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: Poppins;
+}
+
+.line7{
+     font-size: 24px;
+     font-weight: 700;
+     line-height: 0.8;
+     text-align: center;
+     color: black;
+     text-shadow: 2px 3px #83b5dd;
+     font-family: Poppins;
+}
+
+.grouppic{
+     border-radius: 50%;
+     height: auto;
+     max-width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     box-shadow: 58px -64px 72px #7897c7;
+}
+
+.servepage{
+     background-image: url('https://i.ibb.co/jf0SjJ9/Rectangle.png');
+     background-repeat: no-repeat;
+     background-position: center 63%;
+     background-size: 100% 30%;
+}
+
+.servepageb{
+     background-image: url('https://i.ibb.co/mJcfHnN/Curve.png');
+     background-repeat: no-repeat;
+     background-position: right;
+}
+
+.mappost{
+     margin-bottom: 2%;
+}
+
+.mapicon{
+     font-size: 40px;
+     background-color: #c1dbff;
+     box-shadow: 1px 10px 14px #bfbfbf;
+     border-radius: 0px 50px 50px 0px;
+     padding-top: 0.5%;
+     padding-bottom: 0.5%;
+     padding-left: 1%;
+     padding-right: 1%;
+}
+
+.blogback{
+     background-image: url('https://i.ibb.co/jf0SjJ9/Rectangle.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 100% 20%;
+}
+
+.blogb{
+     background-image: url('https://i.ibb.co/DV4GmxJ/Curve.png');
+     background-repeat: no-repeat;
+     background-position: left;
+     background-size: 100% 100%;
+}
+
+.serviceline1{
+     font-size: 36px;
+     font-weight: 700;
+     text-align: center;
+     margin-bottom: 2%;
+     text-shadow: 2px 3px #bfbfbf;
+     font-family: Poppins;
+     padding-top: 3%;
+}
+
+.servicelineb1{
+     font-size: 36px;
+     font-weight: 700;
+     text-align: center;
+     margin-bottom: 2%;
+     text-shadow: 2px 3px #bfbfbf;
+     font-family: Poppins;
+     padding-top: 3%;
+}
+
+.serviceline2{
+     font-size: 22px;
+     text-align: center;
+     margin-bottom: 3%;
+     font-family: Poppins;
+}
+
+.serviceimg{
+     border-radius: 50%;
+     border: 5px solid #3a6aa0;
+     box-shadow: 8px 6px 18px #538ebf;
+     height: 200px;
+     width: 200px;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+}
+
+.servicepos{
+     background-color: #caefff;
+     box-shadow: 12px 14px 8px #528cbd;
+     border-radius: 60px;
+     padding: 5%;
+     padding-left: 10%;
+     margin-bottom: 10%;
+}
+
+.servemsh1{
+     font-size: 34px;
+     font-weight: 700;
+     margin-bottom: 2%;
+     color: #4a4a4a;
+     text-shadow: 2px 3px #bfbfbf;
+     font-family: Poppins;
+}
+
+.servems2{
+     color: #626262;
+     font-size: 18px;
+     font-family: Poppins;
+}
+
+.reviewback{
+     background-image: url('https://i.ibb.co/rw153pS/Curve.png');
+     background-repeat: no-repeat;
+     background-position: bottom;
+     background-size: 100% 30%;
+}
+
+.reviewb{
+     background-image: url('https://i.ibb.co/jf0SjJ9/Rectangle.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 100% 20%;
+}

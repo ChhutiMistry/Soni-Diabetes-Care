@@ -1,0 +1,282 @@
+.footlogo {
+     display: flex;
+}
+
+.footlogo > div {
+     width: 100%;
+     margin-top: 5%;
+}
+
+.logoimgfoot{
+     width: 140px;
+     border-radius: 0px 60px 60px 0px;
+     box-shadow: 5px 10px #41789e;
+}
+
+.footsocial {
+     display: flex;
+}
+
+.footsocial > div {
+     width: 100%;
+     margin-top: 1%;
+}
+
+.smfoot{
+     height: 40px;
+     width: 40px;
+}
+
+.mapsdcfoot{
+     font-size: 30px;
+     color: initial;
+     text-decoration: none;
+}
+
+.footdetails {
+     display: flex;
+     flex-direction: row;
+     text-align: center;
+}
+
+.footflexleft{
+     flex: 50%;
+}
+
+.footflexright{
+     flex: 50%;
+}
+
+@media (max-width: 950px) {
+     .footdetails {
+          flex-direction: column;
+     }
+}
+
+.footd1{
+     line-height: 1;
+     font-size: 18px;
+     text-align: center;
+     font-family: Poppins;
+}
+
+.footd2{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Poppins;
+}
+
+.footd3{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Poppins;
+}
+
+.footd4{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Poppins;
+}
+
+.footd5{
+     line-height: 1;
+     font-size: 18px;
+     text-align: center;
+     font-family: Poppins;
+}
+
+.footd6{
+     line-height: 0.6;
+     font-size: 18px;
+     text-align: center;
+     font-family: Poppins;
+}
+
+.footpagedetails {
+     display: flex;
+     margin-top: 2%;
+}
+
+.footpagedetails > div {
+     width: 100%;
+}
+
+a{
+     color: initial;
+     text-decoration: none;
+}
+
+a:hover{
+     color: initial;
+     text-decoration: none;
+}
+
+.footheadau{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     color: initial;
+     text-decoration: none;
+     font-family: Poppins;
+}
+
+.footheadau:hover{
+     color: initial;
+     text-decoration: none;
+}
+
+.footheadau1{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheadau2{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheaded{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheaded1{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheaded2{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheaded3{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheaded4{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheaded5{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheadse{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheadse1{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheadse2{
+     font-size: 14px;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.footheadfaq{
+     font-size: 18px;
+     font-weight: 700;
+     text-align: left;
+     font-family: Poppins;
+}
+
+.foottac {
+     display: flex;
+     text-align: center;
+}
+
+.foottac > div {
+     width: 100%;
+}
+
+.footline{
+     font-size: 9px;
+     font-weight: bold;
+     font-family: Poppins;
+}
+
+.footlinem1{
+     font-size: 9px;
+     font-weight: bold;
+     font-family: Poppins;
+     color: initial;
+     text-decoration: none;
+}
+
+.footlinem1:hover{
+     color: initial;
+     text-decoration: none;
+}
+
+.footlinewhole{
+     margin-top: 3%;
+}
+
+.subsline1{
+     font-size: 26px;
+     font-weight: 700;
+     text-align: center;
+     text-shadow: 2px 3px #bfbfbf;
+     margin-top: 2%;
+     font-family: Poppins;
+}
+
+.subsline2{
+     text-align: center;
+     margin-bottom: 3%;
+     font-size: 14px;
+     font-family: Poppins;
+}
+
+.footback1{
+     background-image: url('https://i.ibb.co/V97L6ZM/Curve.png');
+     background-repeat: no-repeat;
+     background-position: bottom;
+     background-size: 100% 54%;
+}
+
+.footback2{
+     background-image: url('https://i.ibb.co/WpT7YHy/Curve.png');
+     background-repeat: no-repeat;
+     background-position: bottom;
+     background-size: 100% 45%;
+}
+
+.footback3{
+     background-image: url('https://i.ibb.co/yBrXd5G/Heart.png');
+     background-repeat: no-repeat;
+     background-position: left;
+     background-size: 26% 50%;
+     background-position-x: 2%;
+}
+
+.myfootform{
+     padding-bottom: 5%;
+}
+
+.formw{
+     font-family: Poppins;
+}

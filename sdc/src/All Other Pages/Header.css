@@ -1,0 +1,85 @@
+.tbanner{
+     background-color: #0d1a23;
+}
+
+.bannline{
+     color: white;
+     cursor: pointer;
+     text-align: center;
+     font-size: 24px;
+     font-family: Poppins;
+     padding-top: 0.3%;
+     padding-bottom: 0.6%;
+}
+
+.modback{
+     background-color: #85bee4;
+}
+
+.modhead{
+     font-family: Poppins;
+}
+
+.bannform{
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     display: block;
+     font-family: Poppins;
+     font-weight: bold;
+}
+
+.formebox{
+     margin-bottom: 5%;
+     font-family: Poppins;
+}
+
+.formebutton{
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     display: block;
+     font-family: Poppins;
+}
+
+.navbarwhole{
+     background-color: #4b9fd8;
+}
+
+.navbar{
+     --bs-navbar-padding-y: -1.5rem !important;
+}
+
+.logoimg{
+     width: 250px;
+     border-radius: 0px 60px 60px 0px;
+     box-shadow: 5px 10px #41789e;
+     background-color: #F1F1F1;
+     margin-top: 2%;
+     margin-left: -4%;
+}
+
+.navbutton{
+     width: 30%;
+}
+
+.navtext{
+     color: #ffffff;
+     text-decoration: none;
+     font-family: Poppins;
+     font-size: 24px;
+}
+
+.navtext:hover{
+     color: #ffffff;
+     text-decoration: none;
+     font-family: Poppins;
+     font-size: 24px;
+}
+
+.navbartext{
+     font-weight: 500;
+     font-size: 22px;
+     margin-right: 7%;
+     font-family: Poppins;
+}

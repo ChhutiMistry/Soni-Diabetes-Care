@@ -1,0 +1,44 @@
+[
+     {
+          "id": "1",
+          "image": "https://i.ibb.co/Lxkm21M/Diabetes.png",
+          "heading": "Diabetes ?",
+          "paragraph": ["Let's understand the basics of diabetes.<br/>Glucose, or also known as Blood sugar, is the main sugar found in your blood........."],
+          "link": "/blogs/#blogsDiabetes"
+     },
+     {
+          "id": "2",
+          "image": "https://i.ibb.co/kcXN8y8/Why-do-people-get-diabetes.png",
+          "heading": "Why do people gets diabetes?",
+          "paragraph": "Diabetes is a condition, a disease that occurs when a person is unable to regulate their blood glucose, or blood sugar levels.........",
+          "link": "/education/#educationDiabetesEducation"
+     },
+     {
+          "id": "3",
+          "image": "https://i.ibb.co/b5XN7FD/Everything-about-prediabetes.png",
+          "heading": "Everything about Prediabetes",
+          "paragraph": "Prediabetes is a condition where blood sugar levels are higher than normal,.........",
+          "link": "/education/#educationPreDiabetes"
+     },
+     {
+          "id": "4",
+          "image": "https://i.ibb.co/GcWt9tT/Diabetes-prevention.png",
+          "heading": "Diabetes Preventions",
+          "paragraph": "Type 2 diabetes is a chronic medical condition that affects millions of people worldwide. Unmanaged  diabetes may lead to blindness, kidney failure, heart disease.........",
+          "link": "/education"
+     },
+     {
+          "id": "5",
+          "image": "https://i.ibb.co/jWCF7SZ/Diet-and-Nutrition.png",
+          "heading": "Diet and Nutrition!",
+          "paragraph": "A diabetes diet is nothing but eating the healthiest foods that's naturally rich in nutrients and low in fats and calories.........",
+          "link": "/education/#educationDiet"
+     },
+     {
+          "id": "6",
+          "image": "https://i.ibb.co/CHpNqnS/The-fit-blog.png",
+          "heading": "The Fit Blog",
+          "paragraph": "If you're sedentary and considering starting an exercise program, it's a good idea to consult a doctor first to make,.........",
+          "link": "/education/#educationPhysicalActivity"
+     }
+]

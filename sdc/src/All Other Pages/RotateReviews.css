@@ -1,0 +1,28 @@
+.rorecardbox{
+     padding: 1rem;
+     margin-bottom: 5%;
+}
+
+.rorecard{
+     height: 600px;
+     width: 250px;
+     overflow: hidden;
+}
+
+.roreimg{
+     height: 250px;
+     width: 100%;
+}
+
+.rorehead{
+     font-size: 22px;
+     font-family: Poppins;
+     font-weight: 600;
+     text-align: center;
+     margin-top: 5%;
+}
+
+.rorebody{
+     font-size: 16px;
+     font-family: Poppins;
+}

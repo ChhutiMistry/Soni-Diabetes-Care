@@ -1,0 +1,212 @@
+[
+     {
+          "id": "1",
+          "image": "https://i.ibb.co/sQgbPKQ/What-is-diabetes.jpg",
+          "alttext": "What is diabetes?",
+          "heading": "What is diabetes?",
+          "paragraph": "Diabetes means high blood sugar, is a disease in which blood glucose (sugar) levels are higher than normal. As per ADA,........."
+     },
+     {
+          "id": "2",
+          "image": "https://i.ibb.co/N9x19tt/How-do-I-know-if-I-have-diabetes-What-are-symptoms-of-diabetes.jpg",
+          "alttext": "How do I know if I have diabetes? What are symptoms of diabetes?",
+          "heading": "How do I know if I have diabetes? What are symptoms of diabetes?",
+          "paragraph": "Although diabetes has various symptoms but most of the........."
+     },
+     {
+          "id": "3",
+          "image": "https://i.ibb.co/Lx8j0wH/What-s-the-difference-between-type-1-and-type-2-diabetes.jpg",
+          "alttext": "What's the difference between type 1 and type 2 diabetes?",
+          "heading": "What's the difference between type 1 and type 2 diabetes?",
+          "paragraph": "Diabetes has many types but mostly are divided into........."
+     },
+     {
+          "id": "4",
+          "image": "https://i.ibb.co/1GKqGSX/What-should-I-do-if-I-have-diabetes-Do-I-need-to-see-a-diabetic-doctor.jpg",
+          "alttext": "What should I do if I have diabetes? Do I need to see a diabetic doctor?",
+          "heading": "What should I do if I have diabetes? Do I need to see a diabetic doctor?",
+          "paragraph": "If you are recently diagnosed with diabetes or have had diabetes for years, you should........."
+     },
+     {
+          "id": "5",
+          "image": "https://i.ibb.co/jvMmbJj/What-to-do-if-my-blood-sugar-is-not-controlled.jpg",
+          "alttext": "What to do if my blood sugar is not controlled?",
+          "heading": "What to do if my blood sugar is not controlled?",
+          "paragraph": "If your blood sugar is not controlled even after treatment,........."
+     },
+     {
+          "id": "6",
+          "image": "https://i.ibb.co/2g7nJZR/What-can-I-eat-if-I-have-diabetes.jpg",
+          "alttext": "What can I eat if I have diabetes?",
+          "heading": "What can I eat if I have diabetes?",
+          "paragraph": "Diabetes is not a punishment for a patient to keep him away from their favourite food,........."
+     },
+     {
+          "id": "7",
+          "image": "https://i.ibb.co/Cm74cZB/What-should-I-not-eat-for-diabetes.jpg",
+          "alttext": "What should I not eat for diabetes?",
+          "heading": "What should I not eat for diabetes?",
+          "paragraph": "A diabetic patient should avoid sugar, sweets, juice, soft drinks,........."
+     },
+     {
+          "id": "8",
+          "image": "https://i.ibb.co/2M6ptBB/Which-fruits-are-best-with-diabetes.jpg",
+          "alttext": "Which fruits are best with diabetes?",
+          "heading": "Which fruits are best with diabetes?",
+          "paragraph": "Fruits are high in fiber, low in fat and full of vitamins and minerals. It helps to protect........."
+     },
+     {
+          "id": "9",
+          "image": "https://i.ibb.co/C12y7wY/I-am-a-diabetes-patient-What-should-my-blood-sugar-be.jpg",
+          "alttext": "I am a diabetes patient. What should my blood sugar be?",
+          "heading": "I am a diabetes patient. What should my blood sugar be?",
+          "paragraph": "The American Diabetes Association recommends glycemic targets,........."
+     },
+     {
+          "id": "10",
+          "image": "https://i.ibb.co/NnrXKrp/How-to-know-my-diabetes-is-under-control.jpg",
+          "alttext": "How to know my diabetes is under control?",
+          "heading": "How to know my diabetes is under control?",
+          "paragraph": "Every diabetic patient on treatment needs to do self monitoring of blood,........."
+     },
+     {
+          "id": "11",
+          "image": "https://i.ibb.co/prr6ZNm/What-is-an-Hb-A1c.jpg",
+          "alttext": "What is an HbA1c?",
+          "heading": "What is an HbA1c?",
+          "paragraph": "HbA1c is a lab test which tells the 3 months average of your blood sugars. It is done to check whether your diabetes is........."
+     },
+     {
+          "id": "12",
+          "image": "https://i.ibb.co/jM5D07x/If-it-is-sugar-free-I-can-eat-as-much-as-I-want-right.jpg",
+          "alttext": "If it is sugar free, I can eat as much as I want, right?",
+          "heading": "If it is sugar free, I can eat as much as I want, right?",
+          "paragraph": "Let's understand what sugarfree means-........."
+     },
+     {
+          "id": "13",
+          "image": "https://i.ibb.co/6t4M25h/What-is-prediabetes.png",
+          "alttext": "What is prediabetes?",
+          "heading": "What is prediabetes?",
+          "paragraph": "Prediabetes means your blood sugar is high but not enough to diagnose as diabetes........."
+     },
+     {
+          "id": "14",
+          "image": "https://i.ibb.co/TPvhr20/What-is-insulin.jpg",
+          "alttext": "What is insulin?",
+          "heading": "What is insulin?",
+          "paragraph": "Insulin is a hormone produced by pancreas in the body. Its main function is........."
+     },
+     {
+          "id": "15",
+          "image": "https://i.ibb.co/YdMD8r3/How-to-keep-insulin-at-home.jpg",
+          "alttext": "How to keep insulin at home?",
+          "heading": "How to keep insulin at home?",
+          "paragraph": "Insulin should be kept in........."
+     },
+     {
+          "id": "16",
+          "image": "https://i.ibb.co/xLFzBB8/How-to-take-insulin.jpg",
+          "alttext": "How to take insulin?",
+          "heading": "How to take insulin?",
+          "paragraph": "Insulin should be taken as a........."
+     },
+     {
+          "id": "17",
+          "image": "https://i.ibb.co/fM2KhmC/Where-should-you-not-inject-insulin.jpg",
+          "alttext": "Where should you not inject insulin?",
+          "heading": "Where should you not inject insulin?",
+          "paragraph": "Do not inject near joints, the groin area, the navel,........."
+     },
+     {
+          "id": "18",
+          "image": "https://i.ibb.co/r0nNXY9/Can-you-reuse-needles-for-insulin.jpg",
+          "alttext": "Can you reuse needles for insulin?",
+          "heading": "Can you reuse needles for insulin?",
+          "paragraph": "Some people with diabetes use their insulin syringes and........."
+     },
+     {
+          "id": "19",
+          "image": "https://i.ibb.co/WnytJBr/I-am-obese-and-have-diabetes-how-to-lose-weight.jpg",
+          "alttext": "I am obese and have diabetes, how to lose weight?",
+          "heading": "I am obese and have diabetes, how to lose weight?",
+          "paragraph": "Obese diabetics need special care for their weight management, first they should........."
+     },
+     {
+          "id": "20",
+          "image": "https://i.ibb.co/gT44MRy/I-am-a-lean-thin-diabetic-how-do-I-gain-weight.jpg",
+          "alttext": "I am a lean thin diabetic, how do I gain weight?",
+          "heading": "I am a lean thin diabetic, how do I gain weight?",
+          "paragraph": "All type 2 Diabetic are not Obese, these types of diabetic patients need special care for their blood sugar control and weight, first they should........."
+     },
+     {
+          "id": "21",
+          "image": "https://i.ibb.co/w46gWjq/What-if-I-don-t-take-treatment-for-diabetes.jpg",
+          "alttext": "What if I don't take treatment for diabetes?",
+          "heading": "What if I don't take treatment for diabetes?",
+          "paragraph": "A diabetic patient should be treated for blood sugar control and associated illness like BP and cholesterol otherwise he can get trouble........."
+     },
+     {
+          "id": "22",
+          "image": "https://i.ibb.co/rfDXLgw/How-to-prevent-chances-of-heart-attack-or-stroke-in-diabetes.jpg",
+          "alttext": "How to prevent chances of heart attack or stroke in diabetes?",
+          "heading": "How to prevent chances of heart attack or stroke in diabetes?",
+          "paragraph": "A diabetic patient need special care for this issue, should control........."
+     },
+     {
+          "id": "23",
+          "image": "https://i.ibb.co/0jTSN01/How-to-check-for-diabetes-complications.png",
+          "alttext": "How to check for diabetes complications?",
+          "heading": "How to check for diabetes complications?",
+          "paragraph": "A diabetic patient needs to be evaluated once in a year for their........."
+     },
+     {
+          "id": "24",
+          "image": "https://i.ibb.co/TLBXC61/How-to-identify-gestational-diabetes.png",
+          "alttext": "How to identify gestational diabetes?",
+          "heading": "How to identify gestational diabetes?",
+          "paragraph": "Some women during pregnancy may develop this type of diabetes, as........."
+     },
+     {
+          "id": "25",
+          "image": "https://i.ibb.co/b6GhT6X/What-are-the-signs-that-my-blood-sugar-is-too-low-And-what-to-do.jpg",
+          "alttext": "What are the signs that my blood sugar is too low? And what to do?",
+          "heading": "What are the signs that my blood sugar is too low? And what to do?",
+          "paragraph": "Low blood sugar means........."
+     },
+     {
+          "id": "26",
+          "image": "https://i.ibb.co/3fcRKK8/What-are-the-signs-that-my-blood-sugar-is-too-high-What-to-do.jpg",
+          "alttext": "What are the signs that my blood sugar is too high? What to do?",
+          "heading": "What are the signs that my blood sugar is too high? What to do?",
+          "paragraph": "If your blood sugar level is too high,........."
+     },
+     {
+          "id": "27",
+          "image": "https://i.ibb.co/YDVZt2t/Can-I-keep-Ramadan-with-diabetes.jpg",
+          "alttext": "Can I keep Ramadan with diabetes?",
+          "heading": "Can I keep Ramadan with diabetes?",
+          "paragraph": "Fasting in diabetes is not advisable as patients on drugs needed regular meals as per their diet plan, but........."
+     },
+     {
+          "id": "28",
+          "image": "https://i.ibb.co/0cWrz21/Can-diabetics-drink-alcohol.jpg",
+          "alttext": "Can diabetics drink alcohol?",
+          "heading": "Can diabetics drink alcohol?",
+          "paragraph": "No, Never, alcohol must........."
+     },
+     {
+          "id": "29",
+          "image": "https://i.ibb.co/P9hwcMB/Can-I-get-rid-of-diabetes-Will-it-ever-go-away.jpg",
+          "alttext": "Can I get rid of diabetes? Will it ever go away?",
+          "heading": "Can I get rid of diabetes? Will it ever go away?",
+          "paragraph": "No, Once you are diagnosed with type 1 or type 2 diabetes, you have it for........."
+     },
+     {
+          "id": "30",
+          "image": "https://i.ibb.co/p3ydT8Q/Future-of-Diabetes-management.jpg",
+          "alttext": "Future of Diabetes management",
+          "heading": "Future of Diabetes management.",
+          "paragraph": "Scientists, Researchers and Doctors are working continuously to know more about diabetes,........."
+     }
+]
