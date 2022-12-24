@@ -50,10 +50,10 @@ const Footer = () => {
                               Rajasthan - 332001
                          </p>
                          <p className="footd5">
-                              Call- +91 70736 62430
+                              Call: +91 70736 62430
                          </p>
                          <p className="footd6">
-                              Mail - sonidiabetescare@gmail.com
+                              Mail: sonidiabetescare@gmail.com
                          </p>
                     </div>
                     <div className="footflexright">

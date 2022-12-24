@@ -1,9 +1,33 @@
-import React from "react";
+import React, { Component } from "react";
+import { HashLink as Link } from "react-router-hash-link";
 import "./Home.css";
+import Notification from "./Notification";
 import RotateBlogs from "./RotateBlogs";
 import RotateReviews from "./RotateReviews";
 
-const Home = () => {
+class Home extends Component {
+
+     constructor() {
+          super();
+          this.state = {
+               name: "React",
+               UpdateNOTE: false
+          };
+          this.hideComponent = this.hideComponent.bind(this);
+     }
+     
+     hideComponent(varname) {
+          console.log(varname);
+          switch (varname) {
+               case "UpdateNOTE":
+                    this.setState({ UpdateNOTE: !this.state.UpdateNOTE });
+                    break;
+               default: return;
+          }
+     }
+     
+     render() {
+          const { UpdateNOTE } = this.state;
      return (
           <>
                <div className="sdchome">
@@ -33,8 +57,9 @@ const Home = () => {
                          </div>
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                               <div className="sdcnotice">
-                                   <img src="https://i.ibb.co/BntgjmZ/Announcement.png" alt="Notification icon" className="mybell"/>
-                                   <div className="sdcnote" id="noticee">
+                                   <img src="https://i.ibb.co/BntgjmZ/Announcement.png" alt="Notification icon" onClick={() => this.hideComponent("UpdateNOTE")} className="mybell"/>
+                                   <div>
+                                        {UpdateNOTE && <Notification/>}
                                    </div>
                               </div>
                          </div>
@@ -43,9 +68,11 @@ const Home = () => {
                </div>
                <div className="servepage">
                     <div className="servepageb">
-                         <h2 className="serviceline1">
-                              OUR SERVICES
-                         </h2>
+                         <Link to="/services">
+                              <h2 className="serviceline1">
+                                   OUR SERVICES
+                              </h2>
+                         </Link>
                          <p className="serviceline2">
                               We are a team of certified and experienced Doctors and Staff.
                          </p>
@@ -57,30 +84,38 @@ const Home = () => {
                          <div className="container">
                               <div className="row">
                                    <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-12 col-sm-12 col-12">
-                                        <img src="https://i.ibb.co/NWQg0Tp/Medical-Store.jpg" alt="Medical Store" className="serviceimg"/>
+                                        <Link to="/services">
+                                             <img src="https://i.ibb.co/1bZVDsJ/Medical-Store.jpg" alt="Medical Store" className="serviceimg"/>
+                                        </Link>
                                    </div>
                                    <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
-                                        <div className="servicepos">
-                                             <h1 className="servemsh1">
-                                                  Medical Store
-                                             </h1>
-                                             <p className="servems2">
-                                                  After Diet and Physical Activity, you need drugs or insulin to control your blood sugar and prevent future complications.
-                                             </p>
-                                        </div>
+                                        <Link to="/services">
+                                             <div className="servicepos">
+                                                  <h1 className="servemsh1">
+                                                       Medical Store
+                                                  </h1>
+                                                  <p className="servems2">
+                                                       After Diet and Physical Activity, you need drugs or insulin to control your blood sugar and prevent future complications.
+                                                  </p>
+                                             </div>
+                                        </Link>
                                    </div>
                                    <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-12 col-sm-12 col-12">
-                                        <img src="https://i.ibb.co/MBSRhkf/Lab-Testing.jpg" alt="Lab Testing" className="serviceimg"/>
+                                        <Link to="/services">
+                                             <img src="https://i.ibb.co/MBSRhkf/Lab-Testing.jpg" alt="Lab Testing" className="serviceimg"/>
+                                        </Link>
                                    </div>
                                    <div className="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
-                                        <div className="servicepos">
-                                             <h1 className="servemsh1">
-                                                  Lab & Testing
-                                             </h1>
-                                             <p className="servems2">
-                                                  A quality oriented cost effective Lab facility is available at our center.
-                                             </p>
-                                        </div>
+                                        <Link to="/services">
+                                             <div className="servicepos">
+                                                  <h1 className="servemsh1">
+                                                       Lab & Testing
+                                                  </h1>
+                                                  <p className="servems2">
+                                                       A quality oriented cost effective Lab facility is available at our center.
+                                                  </p>
+                                             </div>
+                                        </Link>
                                    </div>
                               </div>
                          </div>
@@ -88,9 +123,11 @@ const Home = () => {
                </div>
                <div className="blogback">
                     <div className="blogb">
-                         <h2 className="servicelineb1">
-                              BLOGS ON DIABETES
-                         </h2>
+                         <Link to="/blogs">
+                              <h2 className="servicelineb1">
+                                   BLOGS ON DIABETES
+                              </h2>
+                         </Link>
                          <p className="serviceline2">
                               Diabetes is the result of lifestyle failure
                          </p>
@@ -99,9 +136,11 @@ const Home = () => {
                </div>
                <div className="reviewback" id="homeReview">
                     <div className="reviewb">
-                         <h2 className="servicelineb1">
-                              WHAT ARE PATIENTS BELIEVE!
-                         </h2>
+                         <Link to="/#homeReview">
+                              <h2 className="servicelineb1">
+                                   WHAT ARE PATIENTS BELIEVE!
+                              </h2>
+                         </Link>
                          <p className="serviceline2">
                               Reviews of our patients.
                          </p>
@@ -110,6 +149,6 @@ const Home = () => {
                </div>
           </>
      )
-}
+}}
 
 export default Home;

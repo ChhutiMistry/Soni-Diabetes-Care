@@ -9,22 +9,22 @@
 
 .headb{
      font-size: 40px;
-     font-weight: 600;
+     font-weight: 800;
      text-align: center;
      margin-top: 18rem;
      padding-bottom: 5%;
-     color: green;
-     text-shadow: 0 0 10px #f0f611;
+     color: blue;
+     text-shadow: 2px -1px 2px white;
      text-decoration: underline;
      font-family: Poppins;
 }
 
 .hb{
      padding-left: 3%;
-     font-weight: bolder;
+     font-weight: 600;
      font-family: Poppins;
      color: #5019e8;
-     text-shadow: 0 0 10px #feefef;
+     text-shadow: -1px -2px 2px white;
 }
 
 .hbback{
@@ -191,14 +191,20 @@
 }
 
 .sdcbcdimgg{
-     width: 50%;
+     width: 80%;
      margin-top: 20px;
      margin-bottom: 10px;
      margin-left: auto;
      margin-right: auto;
      display: block;
      padding: 6px;
-     border: 8px blueviolet ridge;
+     border: 8px #70c2f8 ridge;
+     box-shadow: 0 0 40px #1c4663;
+}
+
+.sdcbcdtexbor{
+     padding: 10px;
+     box-shadow: 0 0 80px #9ed1f5 inset;
 }
 
 .sdcbp5{

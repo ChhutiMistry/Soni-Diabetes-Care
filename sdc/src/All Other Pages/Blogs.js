@@ -6,46 +6,43 @@ const Blogs = () => {
           <>
                <div className="autoslidec carousel slide" data-bs-ride="carousel" data-bs-interval="1500">
                     <div className="carousel-item active">
-                         <img src="https://i.ibb.co/TttVDHT/Soni-Diabetes-Care-outside-view.jpg" className="autoslidectop" alt="Soni Diabetes Care outside view"/>
+                         <img src="https://i.ibb.co/gyLFTvt/Doctor-Chamber-view.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/D43ftKr/Doctor-Chamber-view.jpg" className="autoslidectop" alt="Doctor Chamber"/>
+                         <img src="https://i.ibb.co/MBjK1KL/Doctors-at-Reception.jpg" className="autoslidectop" alt="Doctors at Reception"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/51Dyw6X/Doctors-at-Reception.jpg" className="autoslidectop" alt="Doctors at Reception"/>
+                         <img src="https://i.ibb.co/F6MGb6X/Reception-getting-information.jpg" className="autoslidectop" alt="Reception - getting information"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/Z1Cj1SW/Reception-getting-information.jpg" className="autoslidectop" alt="Reception - getting information"/>
+                         <img src="https://i.ibb.co/T8bHDsK/Reception-view.jpg" className="autoslidectop" alt="Reception"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/BjRW4tS/Reception-view.jpg" className="autoslidectop" alt="Reception"/>
+                         <img src="https://i.ibb.co/4tpPKyn/Reception-2.jpg" className="autoslidectop" alt="Reception"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/tBvS0G4/Reception-2.jpg" className="autoslidectop" alt="Reception"/>
+                         <img src="https://i.ibb.co/DkLYSWr/Reception-1.jpg" className="autoslidectop" alt="Reception"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/Z6QTV6H/Reception-1.jpg" className="autoslidectop" alt="Reception"/>
+                         <img src="https://i.ibb.co/1bZVDsJ/Medical-Store.jpg" className="autoslidectop" alt="Medicine Store"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/BTfpzMN/Medicine-Store.jpg" className="autoslidectop" alt="Medicine Store"/>
+                         <img src="https://i.ibb.co/XpNc9sZ/Medical-Tests.jpg" className="autoslidectop" alt="Medical Tests"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/Wprn1jQ/Medical-Tests.jpg" className="autoslidectop" alt="Medical Tests"/>
+                         <img src="https://i.ibb.co/SVjG8cJ/Doctors-and-Staff.jpg" className="autoslidectop" alt="Doctors and Staff"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/GHmkGzf/Doctors-and-Staff.jpg" className="autoslidectop" alt="Doctors and Staff"/>
+                         <img src="https://i.ibb.co/bLGkWY3/Hospital-Staff.jpg" className="autoslidectop" alt="Hospital Staff"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/7RpfNQn/Hospital-Staff.jpg" className="autoslidectop" alt="Hospital Staff"/>
+                         <img src="https://i.ibb.co/dJk7z8B/Doctor-Chamber-3.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/XkX8XW7/Doctor-Chamber-3.jpg" className="autoslidectop" alt="Doctor Chamber"/>
+                         <img src="https://i.ibb.co/w0TR6Zc/Doctor-Chamber-1.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>
                     <div className="carousel-item">
-                         <img src="https://i.ibb.co/0GxJtc4/Doctor-Chamber-1.jpg" className="autoslidectop" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/PWTdvBG/Doctor-Chamber-2.jpg" className="autoslidectop" alt="Doctor Chamber"/>
+                         <img src="https://i.ibb.co/hKXCJZR/Doctor-Chamber-2.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>
                </div>
                <h1 className="headb">
@@ -59,7 +56,7 @@ const Blogs = () => {
                          Be Kind To Diabetics
                     </p>
                </div>
-               <h1 className="sdcbh1" id="blogsDiabetes">
+               <h1 className="sdcbh1">
                     Diabetes...
                </h1>
                <div className="sdcbhp212">
@@ -87,15 +84,17 @@ const Blogs = () => {
                     Complications due to diabetes
                </h1>
                <div className="container">
-                    <h2 className="sdcbcdhead">
-                         <img src="https://i.ibb.co/BGnsCBY/Heart.jpg" alt="Heart" className="sdcbcdiimg"/>
-                         <p>
-                              Heart or cardiovascular diseases
-                         </p>
-                    </h2>
                     <div className="row">
-                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtex">
-                              A diabetic patient has twice a non-diabetic's likelihood of dying of heart diseases, and other cardiovascular diseases like stroke. This is because the high blood sugar levels associated with diabetes damage blood vessels, including the blood vessels of the heart and brain. The longer the person has diabetes- particularly out-of-control diabetes- the higher their risk of heart disease.
+                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtexbor">
+                              <h2 className="sdcbcdhead">
+                                   <img src="https://i.ibb.co/BGnsCBY/Heart.jpg" alt="Heart" className="sdcbcdiimg"/>
+                                   <p>
+                                        Heart or cardiovascular diseases
+                                   </p>
+                              </h2>
+                              <div className="sdcbcdtex">
+                                   A diabetic patient has twice a non-diabetic's likelihood of dying of heart diseases, and other cardiovascular diseases like stroke. This is because the high blood sugar levels associated with diabetes damage blood vessels, including the blood vessels of the heart and brain. The longer the person has diabetes- particularly out-of-control diabetes- the higher their risk of heart disease.
+                              </div>
                          </div>
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                               <img src="https://i.ibb.co/M617HBy/Heart-or-cardiovascular-diseases.jpg" alt="Heart or cardiovascular diseases" className="sdcbcdimgg"/>
@@ -104,34 +103,38 @@ const Blogs = () => {
                </div>
                <hr/>
                <div className="container">
-                    <div className="sdcbcdhr">
-                         <h2 className="sdcbcdhead">
-                              <img src="https://i.ibb.co/Z2r3khx/Kidney.png" alt="Kidney" className="sdcbcdiimg"/>
-                              <p>
-                                   Kidney disease
-                              </p>
-                         </h2>
-                    </div>
                     <div className="row">
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                               <img src="https://i.ibb.co/Pm3yWW8/Kidney-disease.jpg" alt="Kidney disease" className="sdcbcdimgg"/>
                          </div>
-                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtex">
-                              Diabetes is the most common cause of kidney disease. If high blood sugar is not managed properly, it continuously damages kidney cells and ultimately leads to poor functioning of kidney or end stage renal disease.
+                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtexbor">
+                              <div className="sdcbcdhr">
+                                   <h2 className="sdcbcdhead">
+                                        <img src="https://i.ibb.co/Z2r3khx/Kidney.png" alt="Kidney" className="sdcbcdiimg"/>
+                                        <p>
+                                             Kidney disease
+                                        </p>
+                                   </h2>
+                              </div>
+                              <div className="sdcbcdtex">
+                                   Diabetes is the most common cause of kidney disease. If high blood sugar is not managed properly, it continuously damages kidney cells and ultimately leads to poor functioning of kidney or end stage renal disease.
+                              </div>
                          </div>
                     </div>
                </div>
                <hr/>
                <div className="container">
-                    <h2 className="sdcbcdhead">
-                         <img src="https://i.ibb.co/zQr2ny8/Eye.jpg" alt="Eye" className="sdcbcdiimg"/>
-                         <p>
-                              Eye problems
-                         </p>
-                    </h2>
                     <div className="row">
-                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtex">
-                              If diabetes is out of control and blood sugar levels are too high, it can lead to damage to the retina in the eyes, which will cause blurred vision. Diabetic retinopathy is the most common cause of vision loss in diabetics.
+                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtexbor">
+                              <h2 className="sdcbcdhead">
+                                   <img src="https://i.ibb.co/zQr2ny8/Eye.jpg" alt="Eye" className="sdcbcdiimg"/>
+                                   <p>
+                                        Eye problems
+                                   </p>
+                              </h2>
+                              <div className="sdcbcdtex">
+                                   If diabetes is out of control and blood sugar levels are too high, it can lead to damage to the retina in the eyes, which will cause blurred vision. Diabetic retinopathy is the most common cause of vision loss in diabetics.
+                              </div>
                          </div>
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                               <img src="https://i.ibb.co/NKr6RMw/Eye-problems.jpg" alt="Eye problems" className="sdcbcdimgg"/>
@@ -140,20 +143,22 @@ const Blogs = () => {
                </div>
                <hr/>
                <div className="container">
-                    <div className="sdcbcdhr">
-                         <h2 className="sdcbcdhead">
-                              <img src="https://i.ibb.co/mz4KQ6G/Foot.jpg" alt="Foot" className="sdcbcdiimg"/>
-                              <p>
-                                   Foot problems
-                              </p>
-                         </h2>
-                    </div>
                     <div className="row">
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                               <img src="https://i.ibb.co/235VW23/Foot-problems.jpg" alt="Foot problems" className="sdcbcdimgg"/>
                          </div>
-                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtex">
-                              Diabetes reduces circulation. Since proper blood supply to a wound is required for healing, reduced circulation means that the wounds would take longer time to heal as compared to the normal time. This is true, especially in the feet which are the farthest extremities, and diabetes is the leading cause of lower limb amputation. Diabetics must always be aware of wounds, particularly foot wounds, since the impaired blood supply can mean that these wounds and infections will not heal, and will lead to gangrene. 
+                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 sdcbcdtexbor">
+                              <div className="sdcbcdhr">
+                                   <h2 className="sdcbcdhead">
+                                        <img src="https://i.ibb.co/mz4KQ6G/Foot.jpg" alt="Foot" className="sdcbcdiimg"/>
+                                        <p>
+                                             Foot problems
+                                        </p>
+                                   </h2>
+                              </div>
+                              <div className="sdcbcdtex">
+                                   Diabetes reduces circulation. Since proper blood supply to a wound is required for healing, reduced circulation means that the wounds would take longer time to heal as compared to the normal time. This is true, especially in the feet which are the farthest extremities, and diabetes is the leading cause of lower limb amputation. Diabetics must always be aware of wounds, particularly foot wounds, since the impaired blood supply can mean that these wounds and infections will not heal, and will lead to gangrene. 
+                              </div>
                          </div>
                     </div>
                </div>

@@ -29,16 +29,16 @@ function RotateBlogs() {
                     return (
                          <div key={ post.id } className="roblcardbox">
                               <div className="card roblcard">
-                                   <img src={ post.image } className="responsive-img roblimg" alt="Slide"/>
-                                   <div className="card-body">
-                                        <h1 className="card-title roblhead">
-                                             { post.heading }
-                                        </h1>
-                                        <p className="card-text roblbody" dangerouslySetInnerHTML={{ __html: post.paragraph }}></p>
-                                        <Link to={ post.link }>
+                                   <Link to={ post.link }>
+                                        <img src={ post.image } className="responsive-img roblimg" alt="Slide"/>
+                                        <div className="card-body">
+                                             <h1 className="card-title roblhead">
+                                                  { post.heading }
+                                             </h1>
+                                             <p className="card-text roblbody" dangerouslySetInnerHTML={{ __html: post.paragraph }}></p>
                                              <i className="bi bi-arrow-right roblarr"></i>
-                                        </Link>
-                                   </div>
+                                        </div>
+                                   </Link>
                               </div>
                          </div>
                     );

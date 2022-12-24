@@ -1,0 +1,25 @@
+.sdcnote{
+     height: 200px;
+     width: 80%;
+     background-color: antiquewhite;
+     border-radius: 60px 0px 0px 60px;
+     margin-top: 10px;
+     margin-bottom: 30px;
+     padding: 20px;
+     direction: ltr;
+}
+
+.nline1{
+     font-size: 20px;
+     font-weight: bold;
+     font-family: Poppins;
+     text-align: center;
+}
+
+.nline2{
+     font-size: 24px;
+     font-weight: bold;
+     font-family: Poppins;
+     text-align: center;
+     text-shadow: 0 0 20px black;
+}

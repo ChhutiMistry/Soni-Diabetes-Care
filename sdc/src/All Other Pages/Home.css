@@ -23,17 +23,6 @@
      cursor: pointer;
 }
 
-.sdcnote{
-     height: 200px;
-     width: 500px;
-     background-color: antiquewhite;
-     border-radius: 60px 0px 0px 60px;
-}
-
-#noticee{
-     display: none;
-}
-
 .line1{
      font-size: 52px;
      font-weight: 700;

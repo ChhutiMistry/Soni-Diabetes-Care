@@ -56,8 +56,10 @@
 .footd1{
      line-height: 1;
      font-size: 18px;
+     font-weight: bold;
      text-align: center;
      font-family: Poppins;
+     text-shadow: 0 0 20px #0b779b;
 }
 
 .footd2{

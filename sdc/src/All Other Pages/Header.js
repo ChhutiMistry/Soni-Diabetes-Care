@@ -7,8 +7,7 @@ const Header = () => {
           <>
                <div className="tbanner">
                     <div className="bannline" data-bs-toggle="modal" data-bs-target="#mymodal">
-                         Get opinion from our specialists.
-                         <i className="bi bi-caret-down"></i>
+                         <i class="bi bi-bell bannbell"></i> Book Appointment <i className="bi bi-caret-down"></i> <i class="bi bi-bell bannbell"></i>
                     </div>
                     <div id="mymodal" className="modal fade" role="dialog">
                          <div className="modal-dialog">

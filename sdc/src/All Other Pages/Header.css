@@ -1,5 +1,39 @@
 .tbanner{
-     background-color: #0d1a23;
+     background-color: #2d6991;
+     animation: blinkb 2s infinite;
+}
+
+@keyframes blinkb {
+     0% {
+     background-color: #2d6991;
+     }
+
+     100% {
+     background-color: #0e320e;
+     }
+}
+
+.bannbell{
+     background-color: red;
+     animation: blinkbell 0.4s infinite;
+}
+
+@keyframes blinkbell {
+     0% {
+          opacity: 0;
+     }
+
+     49% {
+          opacity: 0;
+     }
+
+     50% {
+          opacity: 1;
+     }
+
+     100% {
+          opacity: 1;
+     }
 }
 
 .bannline{
@@ -23,7 +57,7 @@
 .bannform{
      margin-left: auto;
      margin-right: auto;
-     width: 50%;
+     width: 80%;
      display: block;
      font-family: Poppins;
      font-weight: bold;
