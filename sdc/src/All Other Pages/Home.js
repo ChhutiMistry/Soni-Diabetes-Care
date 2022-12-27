@@ -31,9 +31,18 @@ class Home extends Component {
      return (
           <>
                <div className="sdchome">
-                    <div className="row">
+                    <div className="sdcnotice">
+                         <img src="https://i.ibb.co/BntgjmZ/Announcement.png" alt="Notification icon" onClick={() => this.hideComponent("UpdateNOTE")} className="mybell"/>
+                         <div>
+                              {UpdateNOTE && <Notification/>}
+                         </div>
+                    </div>
+                    <div className="row sdcheadlineimage">
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                              <div className="container sdcheadline">
+                              <img src="https://i.ibb.co/sbyjgD8/Doctors.jpg" alt="Doctors" className="grouppic"/>
+                         </div>
+                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                              <div className="container">
                                    <h1 className="line1">
                                         DIABETES
                                    </h1>
@@ -55,16 +64,7 @@ class Home extends Component {
                                    </p>
                               </div>
                          </div>
-                         <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                              <div className="sdcnotice">
-                                   <img src="https://i.ibb.co/BntgjmZ/Announcement.png" alt="Notification icon" onClick={() => this.hideComponent("UpdateNOTE")} className="mybell"/>
-                                   <div>
-                                        {UpdateNOTE && <Notification/>}
-                                   </div>
-                              </div>
-                         </div>
                     </div>
-                    <img src="https://i.ibb.co/7XfqdJz/Group.png" alt="Doctors" className="grouppic"/>
                </div>
                <div className="servepage">
                     <div className="servepageb">

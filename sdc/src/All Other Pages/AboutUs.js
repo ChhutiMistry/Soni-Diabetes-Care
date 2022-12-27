@@ -4,7 +4,7 @@ import "./AboutUs.css";
 const AboutUs = () => {
      return (
           <>
-               <div className="autoslidec carousel slide" data-bs-ride="carousel" data-bs-interval="1500">
+               <div className="autoslidec carousel carousel-fade slide" data-bs-ride="carousel" data-bs-interval="2500">
                     <div className="carousel-item active">
                          <img src="https://i.ibb.co/SVjG8cJ/Doctors-and-Staff.jpg" className="autoslidectopf" alt="Doctors and Staff"/>
                     </div>
@@ -52,14 +52,17 @@ const AboutUs = () => {
                     HOME / ABOUT US
                </p>
                <div className="hauback">
-                    <div className="topbox">
-                         <div>
+                    <div className="row">
+                         <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                               <h1 className="headline1">
                                    SONI DIABETES CARE
                               </h1>
                          </div>
-                         <div>
-                              <p className="headline2">
+                         <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+                              <img src="https://i.ibb.co/SN3kfTP/Doctors.png" alt="Doctor" className="headline2"/>
+                         </div>
+                         <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                              <p className="headline3">
                                    Our diabetic carecenter is updated in the field of diabetes and we believe in patient awareness and education. We provide regular consultations to our patients, explain to them what and how to maintain their diet with appropriate and quality drugs.
                               </p>
                          </div>
@@ -83,22 +86,21 @@ const AboutUs = () => {
                <h1 className="sdcauh2" id="aboutusOurDoctors">
                     OUR DOCTORS
                </h1>
-               <img src="https://i.ibb.co/SN3kfTP/Doctors.png" alt="Doctor icon" className="diimg"/>
                <h2 className="sdcauh3">
                     Dr Mukesh Kumar Soni MD
                </h2>
-               <div className="drmks">
-                    <div>
+               <div className="row">
+                    <div className="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
                          <img src="https://i.ibb.co/r00kcGT/Mukesh-Kumar-Soni.jpg" alt="Mukesh Kumar Soni" className="drmksimg"/>
                     </div>
-                    <div>
-                         <p className="sdcaup5">
+                    <div className="col-xxl-7 col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 sdcaup5">
+                         <p>
                               Dr Mukesh Kumar Soni MD, earned his graduation and postgraduate degree in field of Medicine from the most prestigious Medical College of Rajasthan, SMS Medical College Jaipur in 2014.
                          </p>
-                         <p className="sdcaup6">
+                         <p>
                               He is working in the field of diabetes for the last 7 - 8 years, and now He is working in the Soni Diabetes Care, Sikar as a Director and Consultant Diabetologist.
                          </p>
-                         <p className="sdcaup7">
+                         <p>
                               He wants to provide cost-effective, evidence-based updated best diabetes care to his patients. He believes that Indian Diabetic Patients need basic awareness and education about diabetes and require specialized treatment but it should be cost effective.
                          </p>
                     </div>
@@ -106,15 +108,15 @@ const AboutUs = () => {
                <h2 className="sdcauh4">
                     Dr Tareef Hussain MBBS
                </h2>
-               <div className="drth">
-                    <div>
+               <div className="row">
+                    <div className="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
                          <img src="https://i.ibb.co/MCWqCRK/Tareef-Hussain.jpg" alt="Tareef Hussain" className="drthimg"/>
                     </div>
-                    <div>
-                         <p className="sdcaup8">
+                    <div className="col-xxl-7 col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 sdcaup6">
+                         <p>
                               Dr Tareef Hussain passed his MBBS from Jhalawar Medical College, Rajasthan in 2018. During his MBBS he was a brilliant student and after passing MBBS, worked in SMS Medical College as a Intern student to expand his learning in the field of medical science.
                          </p>
-                         <p className="sdcaup9">
+                         <p>
                               He gained experience of working in the department of medicine in Manipal Hospital Jaipur from 2018 to 2020 and in Gurukripa Hospitals, Sikar from 2020 to 2022. Presently he is working in Soni Diabetes Care, Sikar as an associate consultant to provide complete medicine care to patients.
                          </p>
                     </div>

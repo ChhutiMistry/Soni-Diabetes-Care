@@ -6,27 +6,37 @@
      direction: rtl;
 }
 
-.row{
-     --bs-gutter-x:0 !important;
-}
-
 .mybell{
      font-size: 50px;
      box-shadow: 1px 10px 14px #5b6f94;
      background-color: #7a96c6;
      border-radius: 50px 0px 0px 50px;
-     float: right;
-     margin-top: 7%;
-     margin-right: 2%;
+     margin-top: 20px;
      padding: 1%;
      padding-left: 5%;
      cursor: pointer;
 }
 
+.sdcheadlineimage{
+     padding-bottom: 40px;
+}
+
+.grouppic{
+     height: auto;
+     max-width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 20px;
+     display: block;
+     box-shadow: 0 0 300px #e3d2c0;
+     border: 7px #e3d2c0 ridge;
+     border-radius: 20px;
+}
+
 .line1{
-     font-size: 52px;
+     font-size: 50px;
      font-weight: 700;
-     margin-top: 5%;
+     margin-top: 30px;
      margin-bottom: 3%;
      text-align: center;
      color: black;
@@ -35,7 +45,7 @@
 }
 
 .line2{
-     font-size: 24px;
+     font-size: 20px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
@@ -49,7 +59,7 @@
 }
 
 .line3{
-     font-size: 25px;
+     font-size: 20px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
@@ -59,7 +69,7 @@
 }
 
 .line4{
-     font-size: 24px;
+     font-size: 20px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
@@ -69,11 +79,11 @@
 }
 
 .line5{
-     font-size: 20px;
+     font-size: 16px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
-     color: #0d8e0d;
+     color: #f8f9fa;
      text-shadow: 2px 2px #83b5dd;
      font-family: Poppins;
 }
@@ -83,7 +93,7 @@
 }
 
 .line6{
-     font-size: 20px;
+     font-size: 16px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
@@ -93,23 +103,13 @@
 }
 
 .line7{
-     font-size: 24px;
+     font-size: 20px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
      font-family: Poppins;
-}
-
-.grouppic{
-     border-radius: 50%;
-     height: auto;
-     max-width: 70%;
-     margin-left: auto;
-     margin-right: auto;
-     display: block;
-     box-shadow: 58px -64px 72px #7897c7;
 }
 
 .servepage{

@@ -1,49 +1,20 @@
 .tbanner{
      background-color: #2d6991;
-     animation: blinkb 2s infinite;
-}
-
-@keyframes blinkb {
-     0% {
-     background-color: #2d6991;
-     }
-
-     100% {
-     background-color: #0e320e;
-     }
-}
-
-.bannbell{
-     background-color: red;
-     animation: blinkbell 0.4s infinite;
-}
-
-@keyframes blinkbell {
-     0% {
-          opacity: 0;
-     }
-
-     49% {
-          opacity: 0;
-     }
-
-     50% {
-          opacity: 1;
-     }
-
-     100% {
-          opacity: 1;
-     }
 }
 
 .bannline{
      color: white;
+     background-color: #2d6991;
+     float: right;
      cursor: pointer;
      text-align: center;
      font-size: 24px;
+     font-weight: 600;
      font-family: Poppins;
-     padding-top: 0.3%;
-     padding-bottom: 0.6%;
+     padding-top: 10px;
+     padding-bottom: 4px;
+     padding-left: 8px;
+     padding-right: 8px;
 }
 
 .modback{
@@ -85,12 +56,12 @@
 }
 
 .logoimg{
-     width: 250px;
+     width: 220px;
      border-radius: 0px 60px 60px 0px;
      box-shadow: 5px 10px #41789e;
      background-color: #F1F1F1;
-     margin-top: 2%;
-     margin-left: -4%;
+     margin-left: -12px;
+     margin-bottom: 10px;
 }
 
 .navbutton{

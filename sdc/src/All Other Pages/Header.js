@@ -7,7 +7,21 @@ const Header = () => {
           <>
                <div className="tbanner">
                     <div className="bannline" data-bs-toggle="modal" data-bs-target="#mymodal">
-                         <i class="bi bi-bell bannbell"></i> Book Appointment <i className="bi bi-caret-down"></i> <i class="bi bi-bell bannbell"></i>
+                         <div>B</div>
+                         <div>O</div>
+                         <div>O</div>
+                         <div>K</div>
+                         <div>A</div>
+                         <div>P</div>
+                         <div>P</div>
+                         <div>O</div>
+                         <div>I</div>
+                         <div>N</div>
+                         <div>T</div>
+                         <div>M</div>
+                         <div>E</div>
+                         <div>N</div>
+                         <div>T</div>
                     </div>
                     <div id="mymodal" className="modal fade" role="dialog">
                          <div className="modal-dialog">
@@ -70,10 +84,15 @@ const Header = () => {
                                         </Link>
                                    </li>
                                    <li className="nav-item dropdown navbartext">
-                                        <Link to="/aboutus" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
+                                        <Link to="/aboutus" onClick="location.reload()" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
                                              About Us
                                         </Link>
                                         <ul className="dropdown-menu dropdown-menu-dark">
+                                             <li>
+                                                  <Link to="/aboutus" onClick="location.reload()" className="dropdown-item">
+                                                       About Us
+                                                  </Link>
+                                             </li>
                                              <li>
                                                   <Link to="/aboutus/#aboutusSoniDiabetesCare" className="dropdown-item">
                                                        Soni Diabetes Care
@@ -92,10 +111,15 @@ const Header = () => {
                                         </ul>
                                    </li>
                                    <li className="nav-item dropdown navbartext">
-                                        <Link to="/education" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
+                                        <Link to="/education" onClick="location.reload()" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
                                              Education
                                         </Link>
                                         <ul className="dropdown-menu dropdown-menu-dark">
+                                             <li>
+                                                  <Link to="/education" onClick="location.reload()" className="dropdown-item">
+                                                       Education
+                                                  </Link>
+                                             </li>
                                              <li>
                                                   <Link to="/education/#educationDiabetesEducation" className="dropdown-item">
                                                        Diabetes Education
@@ -124,29 +148,29 @@ const Header = () => {
                                         </ul>
                                    </li>
                                    <li className="nav-item dropdown navbartext">
-                                        <Link to="/services" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
+                                        <Link to="/services" onClick="location.reload()" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
                                              Services
                                         </Link>
                                         <ul className="dropdown-menu dropdown-menu-dark">
                                              <li>
-                                                  <Link to="/services" className="dropdown-item">
+                                                  <Link to="/services" onClick="location.reload()" className="dropdown-item">
                                                        Medical Store
                                                   </Link>
                                              </li>
                                              <li>
-                                                  <Link to="/services" className="dropdown-item">
+                                                  <Link to="/services" onClick="location.reload()" className="dropdown-item">
                                                        Lab & Testing
                                                   </Link>
                                              </li>
                                         </ul>
                                    </li>
                                    <li className="nav-item navbartext">
-                                        <Link to="/blogs" className="active navtext">
+                                        <Link to="/blogs" onClick="location.reload()" className="active navtext">
                                              Blogs
                                         </Link>
                                    </li>
                                    <li className="nav-item navbartext">
-                                        <Link to="/faqs" className="active navtext">
+                                        <Link to="/faqs" onClick="location.reload()" className="active navtext">
                                              FAQ's
                                         </Link>
                                    </li>

@@ -25,7 +25,7 @@ const FAQs = () => {
 
      return (
           <>
-               <div className="autoslidec carousel slide" data-bs-ride="carousel" data-bs-interval="1500">
+               <div className="autoslidec carousel carousel-fade slide" data-bs-ride="carousel" data-bs-interval="2500">
                     <div className="carousel-item active">
                          <img src="https://i.ibb.co/gyLFTvt/Doctor-Chamber-view.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>

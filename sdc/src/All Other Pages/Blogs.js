@@ -4,7 +4,7 @@ import "./Blogs.css";
 const Blogs = () => {
      return (
           <>
-               <div className="autoslidec carousel slide" data-bs-ride="carousel" data-bs-interval="1500">
+               <div className="autoslidec carousel carousel-fade slide" data-bs-ride="carousel" data-bs-interval="2500">
                     <div className="carousel-item active">
                          <img src="https://i.ibb.co/gyLFTvt/Doctor-Chamber-view.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>
@@ -45,6 +45,28 @@ const Blogs = () => {
                          <img src="https://i.ibb.co/hKXCJZR/Doctor-Chamber-2.jpg" className="autoslidectop" alt="Doctor Chamber"/>
                     </div>
                </div>
+               {/* <script type='text/javascript'>
+
+        (() => {
+            if (window.localStorage) {
+  
+                // If there is no item as 'reload'
+                // in localstorage then create one &
+                // reload the page
+                if (!localStorage.getItem('reload')) {
+                    localStorage['reload'] = true;
+                    window.location.reload();
+                } else {
+  
+                    // If there exists a 'reload' item
+                    // then clear the 'reload' item in
+                    // local storage
+                    localStorage.removeItem('reload');
+                }
+            }
+        })(); // Calling anonymous function here only
+    </script> */}
+               {/* <script>location.reload();</script> */}
                <h1 className="headb">
                     BLOG
                </h1>

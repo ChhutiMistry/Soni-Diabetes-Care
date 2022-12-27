@@ -59,7 +59,7 @@ const Footer = () => {
                     <div className="footflexright">
                          <div className="footpagedetails">
                               <div>
-                                   <Link to="/aboutus/#" className="footheadau">
+                                   <Link to="/aboutus/#" onClick="location.reload()" className="footheadau">
                                         About Us
                                    </Link>
                                    <ul>
@@ -76,7 +76,7 @@ const Footer = () => {
                                    </ul>
                               </div>
                               <div>
-                                   <Link to="/education/#" className="footheaded">
+                                   <Link to="/education/#" onClick="location.reload()" className="footheaded">
                                         Education
                                    </Link>
                                    <ul>
@@ -108,24 +108,24 @@ const Footer = () => {
                                    </ul>
                               </div>  
                               <div>
-                                   <Link to="/services/#" className="footheadse">
+                                   <Link to="/services/#" onClick="location.reload()" className="footheadse">
                                         Services
                                    </Link>
                                    <ul>
                                         <li className="footheadse1">
-                                             <Link to="/services/#">
+                                             <Link to="/services/#" onClick="location.reload()">
                                                   Medical Store
                                              </Link>
                                         </li>
                                         <li className="footheadse2">
-                                             <Link to="/services/#">
+                                             <Link to="/services/#" onClick="location.reload()">
                                                   Lab & Testing
                                              </Link>
                                         </li>
                                    </ul>
                               </div>
                               <div>
-                                   <Link to="/faqs/#" className="footheadfaq">
+                                   <Link to="/faqs/#" onClick="location.reload()" className="footheadfaq">
                                         FAQ'S
                                    </Link>
                               </div>
@@ -172,7 +172,7 @@ const Footer = () => {
                                                   <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-1 col-sm-1 col-1"></div>
                                                   <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                                                        <div className="form-group">
-                                                            <input type="text" className="form-control" placeholder="Enter Email or Mobile number......" name="Email or Mobile number"required/>
+                                                            <input type="text" className="form-control" placeholder="Email or Mobile number......" name="Email or Mobile number"required/>
                                                        </div>
                                                   </div>
                                                   <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1"></div>
