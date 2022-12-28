@@ -9,20 +9,20 @@
 
 .heade{
      font-size: 40px;
-     font-weight: 800;
+     font-weight: 500;
      text-align: center;
      margin-top: 18rem;
      padding-bottom: 5%;
      color: blue;
      text-shadow: 2px -1px 2px white;
      text-decoration: underline;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .he{
      padding-left: 3%;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      color: #5019e8;
      text-shadow: -1px -2px 2px white;
 }
@@ -47,7 +47,7 @@
      font-weight: 700;
      line-height: 0.4;
      text-shadow: 2px 3px #4f8fab;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .headlinee2{
@@ -56,7 +56,7 @@
      font-weight: 700;
      line-height: 0.9;
      text-shadow: 2px 3px #4f8fab;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .headlinee3{
@@ -65,7 +65,7 @@
      font-weight: 700;
      line-height: 0.9;
      text-shadow: 2px 3px #4f8fab;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .headlinee4{
@@ -74,7 +74,7 @@
      font-weight: 700;
      line-height: 0.8;
      text-shadow: 2px 3px #4f8fab;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .headlinee5{
@@ -83,13 +83,13 @@
      font-weight: 700;
      line-height: 0.8;
      text-shadow: 2px 3px #4f8fab;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .sdcdeh1{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -105,8 +105,7 @@
 
 .sdcdep1{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -115,8 +114,7 @@
 
 .sdcdep2{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -138,8 +136,7 @@
      border-radius: 60px;
      box-shadow: 10px 10px 10px #e48989;
      font-size: 16px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      width: 100%;
      margin-top: 20px;
@@ -155,8 +152,7 @@
      border-radius: 60px;
      box-shadow: 10px 10px 10px #7cb8d2;
      font-size: 16px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      width: 100%;
      margin-top: 20px;
@@ -171,8 +167,7 @@
      border-radius: 60px;
      box-shadow: 10px 10px 10px #698ec5;
      font-size: 16px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      width: 100%;
      margin-top: 20px;
@@ -188,8 +183,7 @@
      border-radius: 60px;
      box-shadow: 10px 10px 10px #e98b8b;
      font-size: 16px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      width: 100%;
      margin-top: 20px;
@@ -202,8 +196,7 @@
 
 .sdcdep3{
      font-size: 18px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -221,10 +214,10 @@
      text-align: center;
      color: #0008CC;
      font-weight: 500;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
-.sdcdep45{
+.sdcdepp45{
      background-color: #cbf4fa;
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-top: 15px;
@@ -235,8 +228,7 @@
 
 .sdcdep4{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -246,8 +238,7 @@
 
 .sdcdep5{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -268,7 +259,8 @@
 .sdcdeh2{
      margin-left: 4%;
      font-size: 20px;
-     font-family: Poppins;
+     font-weight: 600;
+     font-family: Comic Sans MS;
      margin-left: 2%;
      margin-right: 2%;
      padding-top: 13px;
@@ -276,8 +268,7 @@
 
 .sdcdep6{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -298,7 +289,8 @@
 .sdcdeh3{
      margin-left: 4%;
      font-size: 20px;
-     font-family: Poppins;
+     font-weight: 600;
+     font-family: Comic Sans MS;
      margin-left: 2%;
      margin-right: 2%;
      padding-top: 13px;
@@ -306,8 +298,7 @@
 
 .sdcdep7{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -317,8 +308,7 @@
 
 .sdcdep8{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -328,13 +318,13 @@
 
 .sdcdep9{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-weight: 200;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     margin-bottom: 3%;
+     margin-bottom: 22px;
 }
 
 .dcircles{
@@ -349,14 +339,14 @@
      box-shadow: 8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle2{
@@ -365,14 +355,14 @@
      box-shadow: -8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle3{
@@ -381,14 +371,14 @@
      box-shadow: 8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.1rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle4{
@@ -397,14 +387,14 @@
      box-shadow: -8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle5{
@@ -413,14 +403,14 @@
      box-shadow: 8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle6{
@@ -429,14 +419,14 @@
      box-shadow: -8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle7{
@@ -445,14 +435,14 @@
      box-shadow: 8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
      justify-content: center;
      align-items: center;
      padding: 5%;
+     margin-right: 8px;
 }
 
 .circle8{
@@ -461,8 +451,7 @@
      box-shadow: -8px 1px 18px #26172d;
      text-align: center;
      font-size: 1.2rem;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      height: 10rem;
      width: 10rem;
      display: flex;
@@ -474,7 +463,7 @@
 .sdcdeh4{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -484,8 +473,7 @@
 
 .sdcdep10{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -493,8 +481,21 @@
      margin-left: 2%;
      margin-right: 2%;
      margin-top: 15px;
-     margin-bottom: 15px;
+     margin-bottom: 26px;
      padding: 13px;
+}
+
+.adaprep{
+     display: flex;
+     align-items: center;
+     justify-self: center;
+     vertical-align: middle;
+}
+
+.adaprem{
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
 }
 
 .adapre{
@@ -503,22 +504,19 @@
      background-color: #ffe9e9;
      box-shadow: 18px 5px 2px #ffd0d0;
      border-radius: 50%;
-     padding-top: 11%;
-     padding-bottom: 11%;
-     padding-left: 2%;
-     padding-right: 2%;
      font-size: 18px;
      font-weight: 500;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
-     margin-left: 20%;
-     margin-top: 10%;
+     display: flex;
+     align-items: center;
+     justify-self: center;
 }
 
 .adapreline1{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -535,7 +533,7 @@
 .adapreline2{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -552,7 +550,7 @@
 .adapreline3{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -568,8 +566,7 @@
 
 .sdcdep11{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -583,8 +580,7 @@
 
 .sdcdep12{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -592,27 +588,33 @@
 }
 
 .riskpos{
-     margin-top: 3%;
-     margin-bottom: 3%;
+     /* margin-top: 3%;
+     margin-bottom: 3%; */
+     display: flex;
+     align-items: center;
+     justify-self: center;
+     vertical-align: middle;
 }
 
-.riskpre{
-     height: 300px;
-     width: 300px;
-     background-color: #fff6f6;
-     box-shadow: 18px 5px 20px #dbdbdb;
-     border-radius: 50%;
-     padding-top: 16%;
-     padding-bottom: 16%;
-     padding-left: 6%;
-     padding-right: 6%;
-     font-size: 32px;
-     font-weight: 500;
-     font-family: Poppins;
-     text-align: center;
+.riskp{
      margin-left: auto;
      margin-right: auto;
      display: block;
+}
+
+.riskpre{
+     height: 260px;
+     width: 260px;
+     background-color: #fff6f6;
+     box-shadow: 18px 5px 20px #dbdbdb;
+     border-radius: 50%;
+     font-size: 28px;
+     font-weight: 500;
+     font-family: Comic Sans MS;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     justify-self: center;
 }
 
 .num1{
@@ -623,7 +625,7 @@
      justify-content: center;
      align-items: center;
      font-size: 30px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      margin-bottom: 1%;
      margin-right: -1%;
      z-index: 1;
@@ -632,7 +634,7 @@
 .tex1{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      background-image: linear-gradient(to right, #913cb9 , #deb1f2);
      box-shadow: 10px 8px 4px #c1bdc9;
@@ -653,7 +655,7 @@
      justify-content: center;
      align-items: center;
      font-size: 30px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      margin-bottom: 1%;
      margin-right: -1%;
      z-index: 1;
@@ -662,7 +664,7 @@
 .tex2{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      background-image: linear-gradient(to right, #6d3fc0 , #bb98f7);
      box-shadow: 10px 8px 4px #c1bdc9;
@@ -683,7 +685,7 @@
      justify-content: center;
      align-items: center;
      font-size: 30px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      margin-bottom: 1%;
      margin-right: -1%;
      z-index: 1;
@@ -692,7 +694,7 @@
 .tex3{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      background-image: linear-gradient(to right, #62a5da , #cde6fa);
      box-shadow: 10px 8px 4px #c1bdc9;
@@ -713,7 +715,7 @@
      justify-content: center;
      align-items: center;
      font-size: 30px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      margin-bottom: 1%;
      margin-right: -1%;
      z-index: 1;
@@ -722,7 +724,7 @@
 .tex4{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      background-image: linear-gradient(to right, #de9610 , #fbe4ba);
      box-shadow: 10px 8px 4px #c1bdc9;
@@ -743,7 +745,7 @@
      justify-content: center;
      align-items: center;
      font-size: 30px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      margin-bottom: 1%;
      margin-right: -1%;
      z-index: 1;
@@ -752,7 +754,7 @@
 .tex5{
      font-size: 20px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      background-image: linear-gradient(to right, #afdb3f , #edfacc);
      box-shadow: 10px 8px 4px #c1bdc9;
@@ -767,8 +769,7 @@
 
 .sdcdep13{
      font-size: 20px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -778,7 +779,7 @@
 .sdcdeh5{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -788,8 +789,7 @@
 
 .sdcdep14{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -803,8 +803,7 @@
 
 .sdcdep15{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -818,8 +817,7 @@
 
 .sdcdep16{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -833,8 +831,7 @@
 
 .sdcdep17{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -848,8 +845,7 @@
 
 .sdcdep18{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -864,7 +860,7 @@
 .sdcdep19{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -884,7 +880,7 @@
 .sdcdep20{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -904,7 +900,7 @@
 .sdcdep21{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -924,7 +920,7 @@
 .sdcdep22{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -944,7 +940,7 @@
 .sdcdeh6{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -954,8 +950,7 @@
 
 .sdcdep23{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -969,8 +964,7 @@
 
 .sdcdep24{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -984,8 +978,7 @@
 
 .sdcdep25{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -999,8 +992,7 @@
 
 .sdcdep26{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -1014,8 +1006,8 @@
 
 .sdcdeh7{
      font-size: 24px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 500;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1025,7 +1017,7 @@
 .sdcdeh8{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1034,8 +1026,7 @@
 
 .sdcdep27{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -1054,15 +1045,15 @@
 
 .sdcdep28{
      font-size: 20px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 600;
+     font-family: Comic Sans MS;
      line-height: 1.3;
 }
 
 .sdcdep29{
      font-size: 20px;
      font-weight: 500;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
 }
 
@@ -1155,9 +1146,10 @@
 .hexname1{
      font-size: 20px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.2;
+     padding: 5px;
 }
 
 .hexagon2 {
@@ -1205,9 +1197,10 @@
 .hexname2{
      font-size: 20px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.2;
+     padding: 5px;
 }
 
 .hexagon3 {
@@ -1255,9 +1248,10 @@
 .hexname3{
      font-size: 20px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.2;
+     padding: 5px;
 }
 
 .hexagon4 {
@@ -1303,11 +1297,12 @@
 }
 
 .hexname4{
-     font-size: 20px;
+     font-size: 17px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.2;
+     padding: 5px;
 }
 
 .hexagon5 {
@@ -1355,9 +1350,10 @@
 .hexname5{
      font-size: 20px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.2;
+     padding: 5px;
 }
 
 .sdcdep3031{
@@ -1368,15 +1364,15 @@
 
 .sdcdep30{
      font-size: 20px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 600;
+     font-family: Comic Sans MS;
      line-height: 1.3;
 }
 
 .sdcdep31{
      font-size: 20px;
      font-weight:500;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
 }
 
@@ -1395,13 +1391,14 @@
      border-radius: 0px 40px 40px 0px;
      font-size: 16px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      display: flex;
      justify-items: center;
      align-items: center;
      height: 160px;
      width: 50%;
+     padding: 6px;
 }
 
 .badcpos2{
@@ -1419,13 +1416,14 @@
      border-radius: 0px 40px 40px 0px;
      font-size: 16px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      display: flex;
      justify-items: center;
      align-items: center;
      height: 160px;
      width: 50%;
+     padding: 6px;
 }
 
 .badcpos3{
@@ -1443,13 +1441,14 @@
      border-radius: 0px 40px 40px 0px;
      font-size: 16px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      display: flex;
      justify-items: center;
      align-items: center;
      height: 160px;
      width: 50%;
+     padding: 6px;
 }
 
 .badcpos4{
@@ -1467,13 +1466,14 @@
      border-radius: 0px 40px 40px 0px;
      font-size: 16px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      display: flex;
      justify-items: center;
      align-items: center;
      height: 160px;
      width: 50%;
+     padding: 6px;
 }
 
 .badcpos5{
@@ -1491,13 +1491,14 @@
      border-radius: 0px 40px 40px 0px;
      font-size: 16px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      display: flex;
      justify-items: center;
      align-items: center;
      height: 160px;
      width: 50%;
+     padding: 6px;
 }
 
 .badcpos6{
@@ -1515,13 +1516,14 @@
      border-radius: 0px 40px 40px 0px;
      font-size: 16px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      display: flex;
      justify-items: center;
      align-items: center;
      height: 160px;
      width: 50%;
+     padding: 6px;
 }
 
 .badlastc{
@@ -1542,15 +1544,14 @@
 
 .sdcdeh9{
      font-size: 15px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 600;
+     font-family: Comic Sans MS;
      line-height: 1.3;
 }
 
 .sdcdep32{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      margin-left: 2%;
@@ -1560,7 +1561,7 @@
 .sdcdeh10{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1569,8 +1570,7 @@
 
 .sdcdep33{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -1584,8 +1584,7 @@
 
 .sdcdep34{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -1599,8 +1598,8 @@
 
 .sdcdeh11{
      font-size: 24px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 500;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1611,7 +1610,7 @@
 .sdcdeh12{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1620,8 +1619,8 @@
 
 .sdcdep35{
      font-size: 22px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-weight: 500;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1632,7 +1631,7 @@
 .sdcdeh13{
      font-size: 28px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1708,23 +1707,23 @@
 }
 
 .gf123texth{
-     font-size: 11px;
+     font-size: 10px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      margin-top: 20%;
 }
 
 .gf123text{
      font-size: 12px;
      font-weight: 500;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 0.6;
 }
 
 .sdcdeh14{
      font-size: 28px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1734,8 +1733,7 @@
 
 .sdcdep36{
      font-size: 22px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1773,8 +1771,8 @@
      height: 93px;
      margin: 0px;
      font-size: 14px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-weight: 400;
+     font-family: Comic Sans MS;
 }
 
 .triangle2{
@@ -1797,8 +1795,8 @@
      margin: 0px;
      transform: rotate(180deg);
      font-size: 14px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-weight: 400;
+     font-family: Comic Sans MS;
 }
 
 .triangle3{
@@ -1819,8 +1817,8 @@
      height: 93px;
      margin: 0px;
      font-size: 14px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-weight: 400;
+     font-family: Comic Sans MS;
 }
 
 .triangle4{
@@ -1843,14 +1841,13 @@
      margin: 0px;
      transform: rotate(180deg);
      font-size: 12px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-weight: 400;
+     font-family: Comic Sans MS;
 }
 
 .sdcdep37{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -1864,8 +1861,7 @@
 
 .sdcdep38{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -1880,7 +1876,7 @@
 .sdcdeh15{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -1896,7 +1892,7 @@
 .sdcdep39{
      font-size: 22px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -1905,8 +1901,8 @@
 
 .sdcdep40{
      font-size: 20px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 500;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-align: center;
      line-height: 1.3;
@@ -1916,8 +1912,7 @@
 
 .sdcdep41{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -1931,8 +1926,7 @@
 
 .sdcdep42{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -1946,8 +1940,7 @@
 
 .sdcdep43{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -1961,8 +1954,7 @@
 
 .sdcdep44{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -1976,8 +1968,7 @@
 
 .sdcdep45{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -1991,8 +1982,7 @@
 
 .sdcdep46{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -2006,8 +1996,7 @@
 
 .sdcdep47{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -2021,8 +2010,7 @@
 
 .sdcdep48{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #ffdce2;
@@ -2036,8 +2024,7 @@
 
 .sdcdep49{
      font-size: 15px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: justify;
      line-height: 1.3;
      background-color: #cbf4fa;
@@ -2051,8 +2038,8 @@
 
 .sdcdeh16{
      font-size: 18px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 200;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -2063,7 +2050,7 @@
 .sdcdep50{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -2078,7 +2065,7 @@
 .sdcdep51{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -2093,7 +2080,7 @@
 .sdcdep52{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -2108,7 +2095,7 @@
 .sdcdep53{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -2123,7 +2110,7 @@
 .sdcdep54{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -2138,7 +2125,7 @@
 .sdcdep55{
      font-size: 15px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
@@ -2152,8 +2139,8 @@
 
 .sdcdeh17{
      font-size: 24px;
-     font-weight: 700;
-     font-family: Poppins;
+     font-weight: 500;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-top: 1%;
@@ -2165,5 +2152,5 @@
 .fitg{
      text-align: center;
      font-weight: bold;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }

@@ -4,7 +4,7 @@
 }
 
 .roblcard{
-     height: 400px;
+     height: 450px;
      width: 250px;
      overflow: hidden;
 }
@@ -16,14 +16,14 @@
 
 .roblhead{
      font-size: 22px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-weight: 600;
      margin-top: 5%;
 }
 
 .roblbody{
      font-size: 16px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .roblarr{

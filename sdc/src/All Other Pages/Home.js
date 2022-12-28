@@ -47,17 +47,23 @@ class Home extends Component {
                                         DIABETES
                                    </h1>
                                    <p className="line23">
-                                        <span className="line2">
-                                             Control your <span className="line3">BLOOD SUGAR</span>
-                                        </span>
+                                        <p className="line2">
+                                             Control your
+                                        </p>
+                                        <p className="line3">
+                                             BLOOD SUGAR
+                                        </p>
                                    </p>
                                    <p className="line4">
                                         Without compromising your
                                    </p>
                                    <p className="line56">
-                                        <span className="line5">
-                                             QUALITY OF LIFE <span className="line6">to prevent future</span>
-                                        </span>
+                                        <p className="line5">
+                                             QUALITY OF LIFE
+                                        </p>
+                                        <p className="line6">
+                                             to prevent future
+                                        </p>
                                    </p>
                                    <p className="line7">
                                         complications

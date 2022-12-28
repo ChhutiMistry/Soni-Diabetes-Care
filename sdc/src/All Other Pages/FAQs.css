@@ -9,20 +9,20 @@
 
 .headfaq{
      font-size: 40px;
-     font-weight: 800;
+     font-weight: 500;
      text-align: center;
      margin-top: 18rem;
      padding-bottom: 5%;
      color: blue;
      text-shadow: 2px -1px 2px white;
      text-decoration: underline;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .hfaq{
      padding-left: 3%;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      color: #5019e8;
      text-shadow: -1px -2px 2px white;
 }
@@ -46,7 +46,7 @@
 .sdcfaqh1{
      font-size: 32px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
@@ -74,11 +74,15 @@
 
 .rofaqhead{
      font-size: 22px;
+     font-weight: 500;
+     font-family: Comic Sans MS;
      margin-top: 5%;
 }
 
 .rofaqbody{
      font-size: 16px;
+     font-weight: 200;
+     font-family: Comic Sans MS;
 }
 
 .rofaqarr{

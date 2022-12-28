@@ -129,7 +129,7 @@ const Education = () => {
                          </p>
                     </div>
                </div>
-               <div className="sdcdep45">
+               <div className="sdcdepp45">
                     <p className="sdcdep4">
                          Due to high blood sugar, patients might feel weakness, tiredness, weight loss, recurrent infections and delayed wound healings. Any person suffering from these symptoms and having random blood sugar more than 200 mg/dL is considered as a 'Diabetic Patient'.
                     </p>
@@ -195,10 +195,12 @@ const Education = () => {
                     Prediabtes is a condition where blood sugar levels are higher than normal, but not high enough to be diagnosed as type 2 diabetes. Prediabetes is basically a mild form of type 2 DM. Although blood sugar is not so high in prediabetic patients, cardiovascular risk is as equal to normal diabetic patients. So this population also needs medical advice in the form of dietary restrictions, physical exercise and some medications according to their body weight.
                </p>
                <div className="row">
-                    <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
-                         <p className="adapre">
-                              According to the American diabetes Association, prediabetes is diagnosed when:
-                         </p>
+                    <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 adaprep">
+                         <div className="adaprem">
+                              <p className="adapre">
+                                   According to the American diabetes Association, prediabetes is diagnosed when:
+                              </p>
+                         </div>
                     </div>
                     <div className="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                          <p className="adapreline1">
@@ -221,45 +223,45 @@ const Education = () => {
                <p className="sdcdep12">
                     You can clearly be asymptomatic and have prediabetes for years as it often goes undetected until serious health problems start to show up. It's important to consult your doctor about getting your blood sugar tested if you have any of the factors which put your life at risk, which includes:
                </p>
-               <div className="riskpos">
-                    <div className="row">
-                         <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+               <div className="row">
+                    <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 riskpos">
+                         <div className="riskp">
                               <p className="riskpre">
                                    Risk factors for Pre-diabetes and Diabetes
                               </p>
                          </div>
-                         <div className="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
-                              <div className="row">
-                                   <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num1">
-                                        1
-                                   </div>
-                                   <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex1">
-                                        Being overweight
-                                   </div>
-                                   <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num2">
-                                        2
-                                   </div>
-                                   <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex2">
-                                        Having a parent or sibling with type 2 diabetes
-                                   </div>
-                                   <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num3">
-                                        3
-                                   </div>
-                                   <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex3">
-                                        Having a sedentary lifestyle and being less physically active.
-                                   </div>
-                                   <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num4">
-                                        4
-                                   </div>
-                                   <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex4">
-                                        A previous record of having gestational diabetes (diabetes during pregnancy) or giving birth to a baby who weighed more than 4 kg.
-                                   </div>
-                                   <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num5">
-                                        5
-                                   </div>
-                                   <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex5">
-                                        Having polycystic ovary syndrome.
-                                   </div>
+                    </div>
+                    <div className="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
+                         <div className="row">
+                              <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num1">
+                                   1
+                              </div>
+                              <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex1">
+                                   Being overweight
+                              </div>
+                              <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num2">
+                                   2
+                              </div>
+                              <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex2">
+                                   Having a parent or sibling with type 2 diabetes
+                              </div>
+                              <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num3">
+                                   3
+                              </div>
+                              <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex3">
+                                   Having a sedentary lifestyle and being less physically active.
+                              </div>
+                              <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num4">
+                                   4
+                              </div>
+                              <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex4">
+                                   A previous record of having gestational diabetes (diabetes during pregnancy) or giving birth to a baby who weighed more than 4 kg.
+                              </div>
+                              <div className="col-xxl-1 col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 num5">
+                                   5
+                              </div>
+                              <div className="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 col-11 tex5">
+                                   Having polycystic ovary syndrome.
                               </div>
                          </div>
                     </div>

@@ -34,24 +34,24 @@
 }
 
 .line1{
-     font-size: 50px;
+     font-size: 42px;
      font-weight: 700;
      margin-top: 30px;
-     margin-bottom: 3%;
+     margin-bottom: 16px;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .line2{
-     font-size: 20px;
+     font-size: 24px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .line23{
@@ -59,13 +59,13 @@
 }
 
 .line3{
-     font-size: 20px;
+     font-size: 26px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
      color: #d70707;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .line4{
@@ -75,17 +75,17 @@
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .line5{
-     font-size: 16px;
+     font-size: 24px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
      color: #f8f9fa;
      text-shadow: 2px 2px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .line56{
@@ -93,23 +93,23 @@
 }
 
 .line6{
-     font-size: 16px;
+     font-size: 22px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .line7{
-     font-size: 20px;
+     font-size: 22px;
      font-weight: 700;
      line-height: 0.8;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .servepage{
@@ -160,7 +160,7 @@
      text-align: center;
      margin-bottom: 2%;
      text-shadow: 2px 3px #bfbfbf;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      padding-top: 3%;
 }
 
@@ -170,7 +170,7 @@
      text-align: center;
      margin-bottom: 2%;
      text-shadow: 2px 3px #bfbfbf;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      padding-top: 3%;
 }
 
@@ -178,7 +178,7 @@
      font-size: 22px;
      text-align: center;
      margin-bottom: 3%;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .serviceimg{
@@ -207,13 +207,13 @@
      margin-bottom: 2%;
      color: #4a4a4a;
      text-shadow: 2px 3px #bfbfbf;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .servems2{
      color: #626262;
      font-size: 18px;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .reviewback{

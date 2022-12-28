@@ -9,20 +9,20 @@
 
 .heads{
      font-size: 40px;
-     font-weight: 800;
+     font-weight: 500;
      text-align: center;
      margin-top: 18rem;
      padding-bottom: 5%;
      color: blue;
      text-shadow: 2px -1px 2px white;
      text-decoration: underline;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .hs{
      padding-left: 3%;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      color: #5019e8;
      text-shadow: -1px -2px 2px white;
 }
@@ -64,7 +64,7 @@
 .servemss1{
      font-size: 28px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      margin-bottom: 2%;
      color: white;
@@ -93,7 +93,7 @@
 .sdcsh1{
      font-size: 26px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -103,8 +103,7 @@
 
 .sdcsp1{
      font-size: 14px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -114,7 +113,7 @@
 .sdcsp11{
      font-size: 20px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
 }
@@ -131,7 +130,7 @@
 .sdcsh2{
      font-size: 26px;
      font-weight: 700;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-style: italic;
      text-shadow: 3px 3px 2px #c1c1c1;
      border-bottom-color: #70c2f8;
@@ -141,8 +140,7 @@
 
 .sdcsp2{
      font-size: 16px;
-     font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
      margin-left: 2%;
@@ -152,7 +150,7 @@
 .sdcsp22{
      font-size: 20px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      text-align: center;
      line-height: 1.3;
 }
@@ -166,6 +164,6 @@
      text-align: center;
      font-size: 26px;
      font-weight: 800;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      line-height: 1;
 }

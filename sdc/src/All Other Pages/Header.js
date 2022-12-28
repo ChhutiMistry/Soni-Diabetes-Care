@@ -77,92 +77,91 @@ const Header = () => {
                               <span className="navbar-toggler-icon"></span>
                          </button>
                          <div className="collapse navbar-collapse" id="navbarToggler">
-                              <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+                              <ul className="navbar-nav">
                                    <li className="nav-item navbartext">
                                         <Link to="/" className="active navtext" aria-current="page">
                                              Home
                                         </Link>
                                    </li>
                                    <li className="nav-item dropdown navbartext">
-                                        <Link to="/aboutus" onClick="location.reload()" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
-                                             About Us
-                                        </Link>
-                                        <ul className="dropdown-menu dropdown-menu-dark">
-                                             <li>
-                                                  <Link to="/aboutus" onClick="location.reload()" className="dropdown-item">
-                                                       About Us
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/aboutus/#aboutusSoniDiabetesCare" className="dropdown-item">
-                                                       Soni Diabetes Care
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/aboutus/#aboutusOurDoctors" className="dropdown-item">
-                                                       Our Doctors
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/#homeReview" className="dropdown-item">
-                                                       Testimonials
-                                                  </Link>
-                                             </li>
-                                        </ul>
+                                        <div className="btn-group">
+                                             <Link to="/aboutus" onClick="location.reload()" className="navtextau">
+                                                  About Us
+                                             </Link>
+                                             <div type="button" className="bi bi-caret-down-square-fill dropdown-toggle-split navtext" data-bs-toggle="dropdown"></div>
+                                             <ul className="dropdown-menu dropdown-menu-start dropdown-menu-dark">
+                                                  <li>
+                                                       <Link to="/aboutus/#aboutusSoniDiabetesCare" className="dropdown-item">
+                                                            Soni Diabetes Care
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/aboutus/#aboutusOurDoctors" className="dropdown-item">
+                                                            Our Doctors
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/#homeReview" className="dropdown-item">
+                                                            Testimonials
+                                                       </Link>
+                                                  </li>
+                                             </ul>
+                                        </div>
                                    </li>
                                    <li className="nav-item dropdown navbartext">
-                                        <Link to="/education" onClick="location.reload()" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
-                                             Education
-                                        </Link>
-                                        <ul className="dropdown-menu dropdown-menu-dark">
-                                             <li>
-                                                  <Link to="/education" onClick="location.reload()" className="dropdown-item">
-                                                       Education
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/education/#educationDiabetesEducation" className="dropdown-item">
-                                                       Diabetes Education
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/education/#educationPreDiabetes" className="dropdown-item">
-                                                       Pre - Diabetes
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/education/#educationInsulinEducation" className="dropdown-item">
-                                                       Insulin Education
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/education/#educationDiet" className="dropdown-item">
-                                                       Diet Tips
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/education/#educationPhysicalActivity" className="dropdown-item">
-                                                       Physical Activities
-                                                  </Link>
-                                             </li>
-                                        </ul>
+                                        <div className="btn-group">
+                                             <Link to="/education" onClick="location.reload()" className="navtext">
+                                                  Education
+                                             </Link>
+                                             <div type="button" className="bi bi-caret-down-square-fill dropdown-toggle-split navtext" data-bs-toggle="dropdown"></div>
+                                             <ul className="dropdown-menu dropdown-menu-start dropdown-menu-dark">
+                                                  <li>
+                                                       <Link to="/education/#educationDiabetesEducation" className="dropdown-item">
+                                                            Diabetes Education
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/education/#educationPreDiabetes" className="dropdown-item">
+                                                            Pre - Diabetes
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/education/#educationInsulinEducation" className="dropdown-item">
+                                                            Insulin Education
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/education/#educationDiet" className="dropdown-item">
+                                                            Diet Tips
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/education/#educationPhysicalActivity" className="dropdown-item">
+                                                            Physical Activities
+                                                       </Link>
+                                                  </li>
+                                             </ul>
+                                        </div>
                                    </li>
                                    <li className="nav-item dropdown navbartext">
-                                        <Link to="/services" onClick="location.reload()" className="dropdown-toggle navtext" role="button" data-bs-toggle="dropdown">
-                                             Services
-                                        </Link>
-                                        <ul className="dropdown-menu dropdown-menu-dark">
-                                             <li>
-                                                  <Link to="/services" onClick="location.reload()" className="dropdown-item">
-                                                       Medical Store
-                                                  </Link>
-                                             </li>
-                                             <li>
-                                                  <Link to="/services" onClick="location.reload()" className="dropdown-item">
-                                                       Lab & Testing
-                                                  </Link>
-                                             </li>
-                                        </ul>
+                                        <div className="btn-group">
+                                             <Link to="/services" onClick="location.reload()" className="navtext">
+                                                  Services
+                                             </Link>
+                                             <div type="button" className="bi bi-caret-down-square-fill dropdown-toggle-split navtext" data-bs-toggle="dropdown"></div>
+                                             <ul className="dropdown-menu dropdown-menu-start dropdown-menu-dark">
+                                                  <li>
+                                                       <Link to="/services" onClick="location.reload()" className="dropdown-item">
+                                                            Medical Store
+                                                       </Link>
+                                                  </li>
+                                                  <li>
+                                                       <Link to="/services" onClick="location.reload()" className="dropdown-item">
+                                                            Lab & Testing
+                                                       </Link>
+                                                  </li>
+                                             </ul>
+                                        </div>
                                    </li>
                                    <li className="nav-item navbartext">
                                         <Link to="/blogs" onClick="location.reload()" className="active navtext">
@@ -176,6 +175,28 @@ const Header = () => {
                                    </li>
                               </ul>
                          </div>
+
+
+               {/* <div className="btn-group">
+                    <Link to="/services" onClick="location.reload()" className="navtext">
+                         Services
+                    </Link>
+                    <div type="button" className="bi bi-caret-down-square-fill dropdown-toggle-split navtext" data-bs-toggle="dropdown"></div>
+                    <ul className="dropdown-menu dropdown-menu-start dropdown-menu-dark">
+                         <li>
+                              <Link to="/services" onClick="location.reload()" className="dropdown-item">
+                                   Medical Store
+                              </Link>
+                         </li>
+                         <li>
+                              <Link to="/services" onClick="location.reload()" className="dropdown-item">
+                                   Lab & Testing
+                              </Link>
+                         </li>
+                    </ul>
+               </div> */}
+
+
                     </div>
                </nav>
           </>

@@ -10,7 +10,7 @@
      text-align: center;
      font-size: 24px;
      font-weight: 600;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      padding-top: 10px;
      padding-bottom: 4px;
      padding-left: 8px;
@@ -22,7 +22,7 @@
 }
 
 .modhead{
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .bannform{
@@ -30,13 +30,13 @@
      margin-right: auto;
      width: 80%;
      display: block;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-weight: bold;
 }
 
 .formebox{
      margin-bottom: 5%;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .formebutton{
@@ -44,7 +44,7 @@
      margin-right: auto;
      width: 50%;
      display: block;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
 
 .navbarwhole{
@@ -65,26 +65,42 @@
 }
 
 .navbutton{
-     width: 30%;
+     width: 25%;
 }
 
 .navtext{
      color: #ffffff;
      text-decoration: none;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
      font-size: 24px;
 }
 
 .navtext:hover{
      color: #ffffff;
      text-decoration: none;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
+     font-size: 24px;
+}
+
+.navtextau{
+     color: #ffffff;
+     width: 110px;
+     text-decoration: none;
+     font-family: Comic Sans MS;
+     font-size: 24px;
+}
+
+.navtextau:hover{
+     color: #ffffff;
+     text-decoration: none;
+     font-family: Comic Sans MS;
      font-size: 24px;
 }
 
 .navbartext{
+     /* width: 118px; */
      font-weight: 500;
      font-size: 22px;
      margin-right: 7%;
-     font-family: Poppins;
+     font-family: Comic Sans MS;
 }
