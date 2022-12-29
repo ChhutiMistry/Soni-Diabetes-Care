@@ -59,6 +59,7 @@
      border-bottom-color: #70c2f8;
      border-bottom-width: 3px;
      border-bottom-style: solid;
+     margin-top: 25px;
 }
 
 .lineimage1{
@@ -119,6 +120,7 @@
      border-bottom-color: #70c2f8;
      border-bottom-width: 3px;
      border-bottom-style: solid;
+     margin-top: 25px;
 }
 
 .sdcbp3{
@@ -130,9 +132,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp4{
@@ -154,6 +156,7 @@
      border-bottom-color: #70c2f8;
      border-bottom-width: 3px;
      border-bottom-style: solid;
+     margin-top: 25px;
 }
 
 .sdcbcdhr{
@@ -167,7 +170,7 @@
      font-family: Comic Sans MS;
      margin-left: 2%;
      margin-right: 2%;
-     padding-top: 13px;
+     padding: 20px;
 }
 
 .sdcbcdiimg{
@@ -180,8 +183,9 @@
 .sdcbcdtex{
      margin-top: auto;
      margin-bottom: auto;
-     padding-left: 6px;
-     padding-right: 6px;
+     padding-left: 18px;
+     padding-right: 18px;
+     padding-bottom: 18px;
      display: block;
      font-size: 16px;
      font-family: Comic Sans MS;
@@ -213,7 +217,7 @@
      margin-left: 2%;
      margin-right: 2%;
      margin-top: 2%;
-     margin-bottom: 14px;
+     margin-bottom: 18px;
 }
 
 .sdcbh5{
@@ -225,6 +229,7 @@
      border-bottom-color: #70c2f8;
      border-bottom-width: 3px;
      border-bottom-style: solid;
+     margin-top: 25px;
 }
 
 .sdcbp6{
@@ -236,9 +241,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp7{
@@ -250,9 +255,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp8{
@@ -264,9 +269,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp9{
@@ -277,7 +282,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 2%;
+     margin-top: 40px;
 }
 
 .sdcbp10{
@@ -287,7 +292,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     background-image: linear-gradient(to right, #afdb3f , #edfacc);
+     background-image: linear-gradient(to right, #c8ef65 , #edfacc);
      box-shadow: 4px 4px 12px #c1c1c1;
      border-radius: 35px;
      margin: 1%;
@@ -307,7 +312,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     background-image: linear-gradient(to right, #de9610 , #fbe4ba);
+     background-image: linear-gradient(to right, #ddad53 , #fbe4ba);
      box-shadow: 4px 4px 12px #c1c1c1;
      border-radius: 25px;
      margin: 1%;
@@ -327,7 +332,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     background-image: linear-gradient(to right, #6d3fc0 , #bb98f7);
+     background-image: linear-gradient(to right, #a083d5 , #dccafc);
      box-shadow: 4px 4px 12px #c1c1c1;
      border-radius: 25px;
      margin: 1%;
@@ -347,7 +352,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     background-image: linear-gradient(to right, #913cb9 , #deb1f2);
+     background-image: linear-gradient(to right, #ad7dc3 , #e3b8f6);
      box-shadow: 4px 4px 12px #c1c1c1;
      border-radius: 25px;
      margin: 1%;
@@ -369,6 +374,7 @@
      border-bottom-color: #70c2f8;
      border-bottom-width: 3px;
      border-bottom-style: solid;
+     margin-top: 25px;
 }
 
 .sdcbp14{
@@ -380,9 +386,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp15{
@@ -394,9 +400,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp16{
@@ -408,9 +414,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp17{
@@ -427,9 +433,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp19{
@@ -446,9 +452,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp21{
@@ -463,7 +469,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 2%;
+     margin-top: 30px;
 }
 
 .sdcbp23r{
@@ -618,7 +624,7 @@
      line-height: 1.3;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 2%;
+     margin-top: 40px;
 }
 
 .sdcbh7{
@@ -630,6 +636,7 @@
      border-bottom-color: #70c2f8;
      border-bottom-width: 3px;
      border-bottom-style: solid;
+     margin-top: 25px;
 }
 
 .sdcbp32{
@@ -641,9 +648,9 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbp33{
@@ -655,16 +662,16 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbhp834{
      background-color: #cbf4fa;
      box-shadow: 4px 4px 12px #c1c1c1;
-     margin-top: 15px;
-     margin-bottom: 15px;
+     margin-top: 20px;
+     margin-bottom: 20px;
      margin-left: 2%;
      margin-right: 2%;
      padding: 13px;
@@ -703,16 +710,16 @@
      box-shadow: 4px 4px 12px #c1c1c1;
      margin-left: 2%;
      margin-right: 2%;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     padding: 13px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 18px;
 }
 
 .sdcbhp937{
      background-color: #cbf4fa;
      box-shadow: 4px 4px 12px #c1c1c1;
-     margin-top: 15px;
-     margin-bottom: 15px;
+     margin-top: 20px;
+     margin-bottom: 20px;
      margin-left: 2%;
      margin-right: 2%;
      padding: 13px;

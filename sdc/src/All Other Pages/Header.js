@@ -175,28 +175,6 @@ const Header = () => {
                                    </li>
                               </ul>
                          </div>
-
-
-               {/* <div className="btn-group">
-                    <Link to="/services" onClick="location.reload()" className="navtext">
-                         Services
-                    </Link>
-                    <div type="button" className="bi bi-caret-down-square-fill dropdown-toggle-split navtext" data-bs-toggle="dropdown"></div>
-                    <ul className="dropdown-menu dropdown-menu-start dropdown-menu-dark">
-                         <li>
-                              <Link to="/services" onClick="location.reload()" className="dropdown-item">
-                                   Medical Store
-                              </Link>
-                         </li>
-                         <li>
-                              <Link to="/services" onClick="location.reload()" className="dropdown-item">
-                                   Lab & Testing
-                              </Link>
-                         </li>
-                    </ul>
-               </div> */}
-
-
                     </div>
                </nav>
           </>
