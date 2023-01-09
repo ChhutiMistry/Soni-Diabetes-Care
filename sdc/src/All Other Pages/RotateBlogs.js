@@ -11,6 +11,7 @@ function RotateBlogs() {
      useEffect(() => {
           flkty.current = new Flickity(elemRef.current, {
                autoPlay: false,
+               wrapAround: true,
                pageDots: false,
                selectedAttraction: 0.025,
                friction: 0.4,

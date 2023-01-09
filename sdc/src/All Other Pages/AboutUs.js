@@ -1,53 +1,11 @@
 import React from "react";
 import "./AboutUs.css";
+import Slider from "./Slider";
 
 const AboutUs = () => {
      return (
           <>
-               <div className="autoslidec carousel carousel-fade slide" data-bs-ride="carousel" data-bs-interval="2500">
-                    <div className="carousel-item active">
-                         <img src="https://i.ibb.co/SVjG8cJ/Doctors-and-Staff.jpg" className="autoslidectopf" alt="Doctors and Staff"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/bLGkWY3/Hospital-Staff.jpg" className="autoslidectopf" alt="Hospital Staff"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/F6MGb6X/Reception-getting-information.jpg" className="autoslidectopf" alt="Reception - getting information"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/MBjK1KL/Doctors-at-Reception.jpg" className="autoslidectopf" alt="Doctors at Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/w0TR6Zc/Doctor-Chamber-1.jpg" className="autoslidectopf" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/hKXCJZR/Doctor-Chamber-2.jpg" className="autoslidectopf" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/1bZVDsJ/Medical-Store.jpg" className="autoslidectopf" alt="Medicine Store"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/T8bHDsK/Reception-view.jpg" className="autoslidectopf" alt="Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/DkLYSWr/Reception-1.jpg" className="autoslidectopf" alt="Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/4tpPKyn/Reception-2.jpg" className="autoslidectopf" alt="Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/gyLFTvt/Doctor-Chamber-view.jpg" className="autoslidectopf" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/dJk7z8B/Doctor-Chamber-3.jpg" className="autoslidectopf" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/XpNc9sZ/Medical-Tests.jpg" className="autoslidectopf" alt="Medical Tests"/>
-                    </div>
-               </div>
-               <h1 className="headau">
-                    ABOUT US
-               </h1>
+               <Slider/>
                <p className="hau">
                     HOME / ABOUT US
                </p>

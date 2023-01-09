@@ -1,50 +1,5 @@
-.tbanner{
-     background-color: #2d6991;
-}
-
-.bannline{
-     color: white;
-     background-color: #2d6991;
-     float: right;
-     cursor: pointer;
-     text-align: center;
-     font-size: 24px;
-     font-weight: 600;
-     font-family: Comic Sans MS;
-     padding-top: 10px;
-     padding-bottom: 4px;
-     padding-left: 8px;
-     padding-right: 8px;
-}
-
-.modback{
-     background-color: #85bee4;
-}
-
-.modhead{
-     font-family: Comic Sans MS;
-}
-
-.bannform{
-     margin-left: auto;
-     margin-right: auto;
-     width: 80%;
-     display: block;
-     font-family: Comic Sans MS;
-     font-weight: bold;
-}
-
-.formebox{
-     margin-bottom: 5%;
-     font-family: Comic Sans MS;
-}
-
-.formebutton{
-     margin-left: auto;
-     margin-right: auto;
-     width: 50%;
-     display: block;
-     font-family: Comic Sans MS;
+.navbar-toggler{
+     margin-right: 20px;
 }
 
 .navbarwhole{
@@ -57,10 +12,10 @@
 
 .logoimg{
      width: 220px;
-     border-radius: 0px 60px 60px 0px;
-     box-shadow: 5px 10px #41789e;
-     background-color: #F1F1F1;
-     margin-left: -12px;
+     background-color: #c9e4f7;
+     box-shadow: 0 0 20px #d4e8f6;
+     border-radius: 18px;
+     margin-top: 10px;
      margin-bottom: 10px;
 }
 

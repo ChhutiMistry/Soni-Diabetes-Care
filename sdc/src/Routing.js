@@ -13,7 +13,7 @@ import FAQs from "./All Other Pages/FAQs";
 import FAQanswer from "./All Other Pages/FAQanswer";
 import ThankYou from "./All Other Pages/ThankYou";
 import Error404 from "./All Other Pages/Error404";
-import Car from "./All Other Pages/Car";
+import Slider from "./All Other Pages/Slider";
 
 const Routing = () => {
      return(
@@ -32,7 +32,7 @@ const Routing = () => {
                               <Route path="/faqanswer/:id" element={<FAQanswer/>}/>
                               <Route path="/thankyou" element={<ThankYou/>}/>
                               <Route path="*" element={<Error404/>}/>
-                              <Route path="/robl" element={<Car/>}/>
+                              <Route path="/robl" element={<Slider/>}/>
                          </Routes>
                     <Footer/>
                </div>

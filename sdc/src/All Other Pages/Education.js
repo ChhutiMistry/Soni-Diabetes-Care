@@ -1,53 +1,11 @@
 import React from "react";
 import "./Education.css";
+import Slider from "./Slider";
 
 const Education = () => {
      return (
           <>
-               <div className="autoslidec carousel carousel-fade slide" data-bs-ride="carousel" data-bs-interval="2500">
-                    <div className="carousel-item active">
-                         <img src="https://i.ibb.co/MBjK1KL/Doctors-at-Reception.jpg" className="autoslidectop" alt="Doctors at Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/F6MGb6X/Reception-getting-information.jpg" className="autoslidectop" alt="Reception - getting information"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/gyLFTvt/Doctor-Chamber-view.jpg" className="autoslidectop" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/dJk7z8B/Doctor-Chamber-3.jpg" className="autoslidectop" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/XpNc9sZ/Medical-Tests.jpg" className="autoslidectop" alt="Medical Tests"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/1bZVDsJ/Medical-Store.jpg" className="autoslidectop" alt="Medicine Store"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/w0TR6Zc/Doctor-Chamber-1.jpg" className="autoslidectop" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/hKXCJZR/Doctor-Chamber-2.jpg" className="autoslidectop" alt="Doctor Chamber"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/SVjG8cJ/Doctors-and-Staff.jpg" className="autoslidectop" alt="Doctors and Staff"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/T8bHDsK/Reception-view.jpg" className="autoslidectop" alt="Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/DkLYSWr/Reception-1.jpg" className="autoslidectop" alt="Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/4tpPKyn/Reception-2.jpg" className="autoslidectop" alt="Reception"/>
-                    </div>
-                    <div className="carousel-item">
-                         <img src="https://i.ibb.co/bLGkWY3/Hospital-Staff.jpg" className="autoslidectop" alt="Hospital Staff"/>
-                    </div>
-               </div>
-               <h1 className="heade">
-                    PATIENT EDUCATION
-               </h1>
+               <Slider/>
                <p className="he">
                     HOME / EDUCATION
                </p>
@@ -276,12 +234,6 @@ const Education = () => {
                <p className="sdcdep14">
                     Insulin is a hormone produced by pancreas in the body. Its main function is to promote uptake of glucose by cells, and keep sugar under control. If a normal person consumed excess amounts of glucose or sugar or sweets, then all the glucose in the body entered into cells by the help of insulin and kept the blood sugar in normal level, but if due to some disease the pancreas not able to produce insulin, resulting in insulin deficiency know as type 1 diabetes.
                </p>
-               <p className="sdcdep15">
-                    Insulin is an anabolic hormone which provides glucose to muscles, fatty tissue, liver and all cells of the body. Glucose is the main source of energy for our cells. In the absence of insulin, all glucose remains in circulating blood and results in high blood glucose. In this scenario our muscles or other cells start to oxidize fatty acid to get energy and the end result is production of ketone and acid known as Diabetic Keto-Acidosis, a life threatening emergency for Type 1 Diabetes.
-               </p>
-               <p className="sdcdep16">
-                    To prevent keto-acidosis in type 1 diabetes, insulin is essential. Science has been working on insulin for the last 100 years. Now we have very good quality of insulin by which we can prevent keto-acidosis in type 1 diabetes as well as control the blood sugar to the target level in diabetes. Type 2 Diabetes also requires insulin when oral drugs fail to control blood sugar to the target level.
-               </p>
                <p className="sdcdep17">
                     In India, still there is fear for insulin therapy among diabetic patients, actually insulin is not a punishment, it's just an replacement therapy if there is deficiency so a diabetic patient should take insulin if required and finally as this is a natural molecule, it works without any adverse effects.
                </p>
@@ -303,6 +255,12 @@ const Education = () => {
                <p className="sdcdep22">
                     &#9679;
                     You will also need to rotate, or switch, your injection sites. If you use the same injection site over and over again, you may develop hardened areas under your skin that keep the insulin from working properly.
+               </p>
+               <p className="sdcdep15">
+                    Insulin is an anabolic hormone which provides glucose to muscles, fatty tissue, liver and all cells of the body. Glucose is the main source of energy for our cells. In the absence of insulin, all glucose remains in circulating blood and results in high blood glucose. In this scenario our muscles or other cells start to oxidize fatty acid to get energy and the end result is production of ketone and acid known as Diabetic Keto-Acidosis, a life threatening emergency for Type 1 Diabetes.
+               </p>
+               <p className="sdcdep16">
+                    To prevent keto-acidosis in type 1 diabetes, insulin is essential. Science has been working on insulin for the last 100 years. Now we have very good quality of insulin by which we can prevent keto-acidosis in type 1 diabetes as well as control the blood sugar to the target level in diabetes. Type 2 Diabetes also requires insulin when oral drugs fail to control blood sugar to the target level.
                </p>
                <h1 className="sdcdeh6" id="educationDiet">
                     Diet
@@ -629,21 +587,6 @@ const Education = () => {
                <p className="sdcdep44">
                     Another important benefit of exercising is weight control. Obesity is a major factor for diabetes as excess weight leads to increase in insulin resistance due to excess of fat in the body. A regular exercise regime can help to put off excess weight or loss of fat, which in turn helps to keep diabetes in control.
                </p>
-               <p className="sdcdep45">
-                    People with diabetes are also at a higher risk for heart problems and high cholesterol levels. Regular exercise helps keep your heart healthy and increases good cholesterol levels in your body, keeping your levels in check.
-               </p>
-               <p className="sdcdep46">
-                    Physical activity or regular exercise is beneficial for all but for diabetics it is must to keep under control of your blood glucose, blood pressure and cholesterol, helps to lose fat and reduce heart attack.
-               </p>
-               <p className="sdcdep47">
-                    It is advised to talk to your doctor before starting physical activity. He may suggest certain suitable exercises, or change your medication timings to avoid low blood sugar levels or determine when to exercise in the day. He may also suggest certain foods before or after your activity. So be sure to plan your routine and discuss the same with your healthcare provider. In case you are worried about low blood sugar levels, ask for foods to keep with you at all times, especially during a workout.
-               </p>
-               <p className="sdcdep48">
-                    Depending on your age, exercise history and other factors you can draw up a plan. If you are a beginner, take it slow. Start with some light exercises like walking, stretching, climbing stairs, light dancing, yoga, etc. and build up your stamina to include more.
-               </p>
-               <p className="sdcdep49">
-                    In case you have a history of exercising, maybe do something a little more intensive like aerobics, cardio, strength training for improving muscle tension and brisk walking. While it's always good to push yourself, be careful not to push too far. You can't go from doing nothing to everything overnight. So take your time and be consistent for healthy blood sugar levels.
-               </p>
                <h6 className="sdcdeh16">
                     Also, increase your activity levels throughout the day in simple ways:
                </h6>
@@ -685,6 +628,21 @@ const Education = () => {
                          </p>
                     </div>
                </div>
+               <p className="sdcdep45">
+                    People with diabetes are also at a higher risk for heart problems and high cholesterol levels. Regular exercise helps keep your heart healthy and increases good cholesterol levels in your body, keeping your levels in check.
+               </p>
+               <p className="sdcdep46">
+                    Physical activity or regular exercise is beneficial for all but for diabetics it is must to keep under control of your blood glucose, blood pressure and cholesterol, helps to lose fat and reduce heart attack.
+               </p>
+               <p className="sdcdep47">
+                    It is advised to talk to your doctor before starting physical activity. He may suggest certain suitable exercises, or change your medication timings to avoid low blood sugar levels or determine when to exercise in the day. He may also suggest certain foods before or after your activity. So be sure to plan your routine and discuss the same with your healthcare provider. In case you are worried about low blood sugar levels, ask for foods to keep with you at all times, especially during a workout.
+               </p>
+               <p className="sdcdep48">
+                    Depending on your age, exercise history and other factors you can draw up a plan. If you are a beginner, take it slow. Start with some light exercises like walking, stretching, climbing stairs, light dancing, yoga, etc. and build up your stamina to include more.
+               </p>
+               <p className="sdcdep49">
+                    In case you have a history of exercising, maybe do something a little more intensive like aerobics, cardio, strength training for improving muscle tension and brisk walking. While it's always good to push yourself, be careful not to push too far. You can't go from doing nothing to everything overnight. So take your time and be consistent for healthy blood sugar levels.
+               </p>
                <h6 className="sdcdeh17">
                     Let's talk about some exercises which will help you to achieve your fitness goal.
                </h6>

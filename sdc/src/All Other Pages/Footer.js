@@ -8,7 +8,7 @@ const Footer = () => {
                <div className="footlogo">
                     <div>
                          <Link to="/#">
-                              <img src="https://i.ibb.co/StwnXF7/SDC-logo.png" alt="Logo" className="logoimgfoot"/>
+                              <img src="https://i.ibb.co/6X78GvN/Soni-Diabetes-Care-logo.png" alt="Logo" className="logoimgfoot"/>
                          </Link>
                     </div>
                     <div className="footsocial">
@@ -50,16 +50,16 @@ const Footer = () => {
                               Rajasthan - 332001
                          </p>
                          <p className="footd5">
-                              Call: +91 70736 62430
+                              Call: <a href="tel:+917073662430">+91 70736 62430</a>
                          </p>
                          <p className="footd6">
-                              Mail: sonidiabetescare@gmail.com
+                              Mail: <a href="mailto:sonidiabetescare@gmail.com">sonidiabetescare@gmail.com</a>
                          </p>
                     </div>
                     <div className="footflexright">
                          <div className="footpagedetails">
                               <div>
-                                   <Link to="/aboutus/#" onClick="location.reload()" className="footheadau">
+                                   <Link to="/aboutus/#" className="footheadau">
                                         About Us
                                    </Link>
                                    <ul>
@@ -76,7 +76,7 @@ const Footer = () => {
                                    </ul>
                               </div>
                               <div>
-                                   <Link to="/education/#" onClick="location.reload()" className="footheaded">
+                                   <Link to="/education/#" className="footheaded">
                                         Education
                                    </Link>
                                    <ul>
@@ -108,24 +108,24 @@ const Footer = () => {
                                    </ul>
                               </div>  
                               <div>
-                                   <Link to="/services/#" onClick="location.reload()" className="footheadse">
+                                   <Link to="/services/#" className="footheadse">
                                         Services
                                    </Link>
                                    <ul>
                                         <li className="footheadse1">
-                                             <Link to="/services/#" onClick="location.reload()">
+                                             <Link to="/services/#">
                                                   Medical Store
                                              </Link>
                                         </li>
                                         <li className="footheadse2">
-                                             <Link to="/services/#" onClick="location.reload()">
+                                             <Link to="/services/#">
                                                   Lab & Testing
                                              </Link>
                                         </li>
                                    </ul>
                               </div>
                               <div>
-                                   <Link to="/faqs/#" onClick="location.reload()" className="footheadfaq">
+                                   <Link to="/faqs/#" className="footheadfaq">
                                         FAQ'S
                                    </Link>
                               </div>

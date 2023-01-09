@@ -17,6 +17,59 @@
      cursor: pointer;
 }
 
+.bannline{
+     
+     cursor: pointer;
+     text-align: center;
+     font-size: 24px;
+     font-weight: 800;
+     font-family: Comic Sans MS;
+     position: fixed;
+     bottom: 20%;
+     right: 6px;
+     z-index: 1;
+}
+
+.bannbut{
+     color: white;
+     background-image: linear-gradient(to bottom, #0f2534 , #2d6991);
+}
+
+.bannbut:hover{
+     color: black;
+     background-image: linear-gradient(to bottom, #e9f50d , #bddd08);
+}
+
+.modback{
+     background-color: #85bee4;
+}
+
+.modhead{
+     font-family: Comic Sans MS;
+}
+
+.bannform{
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+     display: block;
+     font-family: Comic Sans MS;
+     font-weight: bold;
+}
+
+.formebox{
+     margin-bottom: 5%;
+     font-family: Comic Sans MS;
+}
+
+.formebutton{
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     display: block;
+     font-family: Comic Sans MS;
+}
+
 .sdcheadlineimage{
      padding-bottom: 40px;
 }
@@ -29,87 +82,29 @@
      margin-top: 20px;
      display: block;
      box-shadow: 0 0 300px #e3d2c0;
-     border: 7px #e3d2c0 ridge;
+     border: 7px #6f6357 ridge;
      border-radius: 20px;
 }
 
 .line1{
-     font-size: 42px;
-     font-weight: 700;
+     font-size: 24px;
+     font-weight: bolder;
      margin-top: 30px;
      margin-bottom: 16px;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Comic Sans MS;
+     font-family: FreeMono, monospace;
 }
 
 .line2{
-     font-size: 24px;
-     font-weight: 700;
+     font-size: 30px;
+     font-weight: bolder;
      line-height: 0.8;
      text-align: center;
      color: black;
      text-shadow: 2px 3px #83b5dd;
-     font-family: Comic Sans MS;
-}
-
-.line23{
-     text-align: center;
-}
-
-.line3{
-     font-size: 26px;
-     font-weight: 700;
-     line-height: 0.8;
-     text-align: center;
-     color: #d70707;
-     text-shadow: 2px 3px #83b5dd;
-     font-family: Comic Sans MS;
-}
-
-.line4{
-     font-size: 20px;
-     font-weight: 700;
-     line-height: 0.8;
-     text-align: center;
-     color: black;
-     text-shadow: 2px 3px #83b5dd;
-     font-family: Comic Sans MS;
-}
-
-.line5{
-     font-size: 24px;
-     font-weight: 700;
-     line-height: 0.8;
-     text-align: center;
-     color: #f8f9fa;
-     text-shadow: 2px 2px #83b5dd;
-     font-family: Comic Sans MS;
-}
-
-.line56{
-     text-align: center;
-}
-
-.line6{
-     font-size: 22px;
-     font-weight: 700;
-     line-height: 0.8;
-     text-align: center;
-     color: black;
-     text-shadow: 2px 3px #83b5dd;
-     font-family: Comic Sans MS;
-}
-
-.line7{
-     font-size: 22px;
-     font-weight: 700;
-     line-height: 0.8;
-     text-align: center;
-     color: black;
-     text-shadow: 2px 3px #83b5dd;
-     font-family: Comic Sans MS;
+     font-family: FreeMono, monospace;
 }
 
 .servepage{
@@ -138,6 +133,7 @@
      padding-bottom: 0.5%;
      padding-left: 1%;
      padding-right: 1%;
+     float: left;
 }
 
 .blogback{
@@ -190,6 +186,7 @@
      margin-left: auto;
      margin-right: auto;
      display: block;
+     margin-top: 10%;
 }
 
 .servicepos{

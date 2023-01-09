@@ -37,36 +37,67 @@ class Home extends Component {
                               {UpdateNOTE && <Notification/>}
                          </div>
                     </div>
+                    <div className="bannline" data-bs-toggle="modal" data-bs-target="#mymodal">
+                         <button className="bannbut">
+                              Book Now
+                         </button>
+                    </div>
+                    <div id="mymodal" className="modal fade" role="dialog">
+                         <div className="modal-dialog">
+                              <div className="modal-content modback">
+                                   <div className="modal-header">
+                                        <h4 className="modal-title modhead">
+                                             Opinion from the Specialist
+                                        </h4>
+                                        <button className="close" data-bs-dismiss="modal">
+                                             &times;
+                                        </button>
+                                   </div>
+                                   <div className="modal-body">
+                                        <form action="https://public.herotofu.com/v1/7468b140-7ed7-11ed-b38f-a1ed22f366b1" method="post" encType="multipart/form-data">
+                                             <div className="bannform">
+                                                  <div className="form-group">
+                                                       NAME
+                                                       <input type="text" name="Name" className="form-control formebox" placeholder="Enter Name" required/>
+                                                  </div>
+                                                  <div className="form-group">
+                                                       MOBILE NUMBER
+                                                       <input type="digits" name="Phone Number" className="form-control formebox" placeholder="Enter mobile no" minLength="10" required/>
+                                                  </div>
+                                                  <div className="form-group">
+                                                       PREFERRED TIME TO CALL
+                                                       <input type="time" name="Time to Call" className="form-control formebox" placeholder="Preferred time to call" required/>
+                                                  </div>
+                                                  <div className="form-group">
+                                                       DOCUMENT
+                                                       <input type="file" name="Document" className="form-control formebox" placeholder="Browse PDF, DOCX, ETC."/>
+                                                  </div>
+                                                  <button className="btn btn-primary formebutton" type="submit">
+                                                       SUBMIT
+                                                  </button>
+                                             </div>
+                                        </form>
+                                   </div>
+                                   <div className="modal-footer modhead">
+                                        <p>
+                                             You will be notified soon about the follow-up.
+                                        </p>
+                                   </div>
+                              </div>
+                         </div>
+                    </div>
+
                     <div className="row sdcheadlineimage">
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                               <img src="https://i.ibb.co/sbyjgD8/Doctors.jpg" alt="Doctors" className="grouppic"/>
                          </div>
                          <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                              <div className="container">
+                              <div className="container-fluid">
                                    <h1 className="line1">
-                                        DIABETES
+                                        Keep your heart sweet...
                                    </h1>
-                                   <p className="line23">
-                                        <p className="line2">
-                                             Control your
-                                        </p>
-                                        <p className="line3">
-                                             BLOOD SUGAR
-                                        </p>
-                                   </p>
-                                   <p className="line4">
-                                        Without compromising your
-                                   </p>
-                                   <p className="line56">
-                                        <p className="line5">
-                                             QUALITY OF LIFE
-                                        </p>
-                                        <p className="line6">
-                                             to prevent future
-                                        </p>
-                                   </p>
-                                   <p className="line7">
-                                        complications
+                                   <p className="line2">
+                                        Not Blood
                                    </p>
                               </div>
                          </div>
