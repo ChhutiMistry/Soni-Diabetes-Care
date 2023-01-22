@@ -7,11 +7,16 @@
      height: 600px;
      width: 250px;
      overflow: hidden;
+     border: none;
 }
 
 .roreimg{
      height: 250px;
      width: 100%;
+}
+
+.roretbox{
+     background-image: linear-gradient(to top, #f5feff 70% , #6dbbfc);
 }
 
 .rorehead{

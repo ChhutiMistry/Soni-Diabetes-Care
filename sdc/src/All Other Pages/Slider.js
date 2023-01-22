@@ -27,7 +27,7 @@ const Slider = () => {
                <div className="slidepos" ref = {elemRef}>
                     {Data.map(post => {
                          return (
-                              <div key={ post.id }>
+                              <div key={ post.id } data-flickity='{ "autoPlay": true }'>
                                    <img src={ post.image } alt={ post.imagealt } className="asimage"/>
                               </div>
                          );

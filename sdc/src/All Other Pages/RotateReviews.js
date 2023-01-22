@@ -30,7 +30,7 @@ function RotateReviews() {
                          <div key={ post.id } className="rorecardbox">
                               <div className="card rorecard">
                                    <img src={ post.image } className="responsive-img roreimg" alt="Slide"/>
-                                   <div className="card-body">
+                                   <div className="card-body roretbox">
                                         <h1 className="card-title rorehead">
                                              { post.heading }
                                         </h1>
